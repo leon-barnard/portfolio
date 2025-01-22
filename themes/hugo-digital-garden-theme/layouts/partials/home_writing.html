@@ -1,0 +1,23 @@
+<div class="col-lg-4 col-md-6 col-12">
+  <div class="red-border mx-0">
+    <div class="card h-100 top-highlight">
+        <div class="card-body">
+            <div class="row justify-content-between">
+                <div class="col-12">
+                    <h5 class="card-title">{{ .Title }}</h5>
+                </div>
+                <!-- <div class="col-xl-1 col-sm-2">
+                    <p class="card-right">
+                        <i class="fa fa-external-link-alt" aria-hidden="true"></i>
+                    </p>
+                </div> -->
+                <div class="col-12">
+                  <p class="card-text">{{ .Summary }}</p>
+                  {{ if .Params.link }} <span class="status">{{ .Params.source }}</span>{{ end }}
+                </div>
+            </div>
+            <a href="{{ .Permalink }}" class="stretched-link"></a>
+        </div>
+    </div>   
+</div>   
+</div>

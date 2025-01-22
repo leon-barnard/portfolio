@@ -1,0 +1,52 @@
+<div class='col-lg-6 col-sm-12'>
+    <div class="red-border">
+    <div class="card top-highlight">
+      <div class="row g-0">
+        {{ if .Params.img }} 
+      <div class="col-md-12 col-lg-4 col-xl-4">
+              <img src="{{ .Params.img }}" class="img-fluid rounded-start card-img-top" alt="...">
+      </div>
+      <div class="col-lg-8 col-xl-8 ms-auto order-first">
+        {{ end }}
+        <div class="card-body">
+            {{ if .Summary }} 
+            <h4 class="card-title">{{ .Title }}</h4>
+            <p class="card-text">{{ .Summary }}</p>
+            {{ else }}
+            <h4 class="card-title">{{ .Title }}</h4>
+            {{ end }}
+            <a href="{{ .Permalink }}" class="stretched-link"></a>
+            {{ if .Params.img }} 
+            </div></div>
+            <div class="card-body pt-0">
+            <hr class="dropdown-divider">
+            <div class="row justify-content-between">
+                <div class="col-6">
+                    {{ $dateTime := .Lastmod.Format "2006-01-02" }}
+                    {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+                    <span style="font-size: small"> {{ .Lastmod.Format $dateFormat }}</span>
+                </div>
+                <div class="col-6" style="text-align: right">
+                    {{ if .Params.link }} <span class="status">{{ .Params.source }}</span>{{ end }}
+                </div>
+            </div>
+            {{ else }}
+            <hr class="dropdown-divider">
+            <div class="row justify-content-between">
+                <div class="col-6">
+                    {{ $dateTime := .Lastmod.Format "2006-01-02" }}
+                    {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+                    <span style="font-size: small"> {{ .Lastmod.Format $dateFormat }}</span>
+                </div>
+                <div class="col-6" style="text-align: right">
+                    {{ if .Params.link }} <span class="status">{{ .Params.source }}</span>{{ end }}
+                </div>
+            </div>
+            {{ end }}
+          </div>
+          </div>
+    </div>
+    </div>
+</div>
+
+<!-- {{ .Scratch.Delete "garden_tags_list" }} -->

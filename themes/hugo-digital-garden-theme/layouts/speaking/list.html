@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<!-- Title and summary -->
+<div class="container">
+    <div class="pt-5">
+        <div class="container-fluid py-2">
+            <h1 class="display-4 heading mb-3">{{ .Title }}</h1>
+            <p class="fs-4 serif">{{ .Summary }}</p>
+        </div>
+    </div>
+</div>
+
+<!-- Cards -->
+<div class="container">
+    <div class="row" data-masonry='{"percentPosition": true }' id="blogposts">
+        {{ range .Pages.ByPublishDate.Reverse }}
+        {{ partial "card_speaking.html" . }}
+        {{ end }}
+     </div>
+</div>
+
+{{ end }}

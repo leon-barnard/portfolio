@@ -1,0 +1,21 @@
+<div class="col">
+    <div class="card h-100 top-highlight">
+        <div class="card-body">
+            <div class="row justify-content-between">
+                <div class="col-8">
+                    <h5 class="card-title">{{ .Title }}</h5>
+                    <p class="card-text">{{ .Summary }}</p>
+                </div>
+                <div class="col-4 ">
+                    <p class="card-right">
+                        <span class="card-date">{{ .Lastmod.Format "Jan 2, 2006" }} </span>
+                        <!-- <br/>{{ partial "status.html" . }} -->
+                        <!-- <br/>{{ if .Params.url }} <span class="status">{{ .Params.source }}</span>{{ end }} -->
+                        <i class="fas fa-external-link" aria-hidden="true"></i>
+                    </p>
+                </div>
+            </div>
+            <a href="{{ .Params.url }}" class="stretched-link" target="_blank"></a>
+        </div>
+    </div>   
+</div>   

@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<div class="container" style="max-width: 820px;">
+    <div class="pb-0 pt-4 mt-2">
+        <div class="container-fluid py-2">
+            <h1 class="display-2 mb-4 text-center">{{ .Title }}</h1>
+        {{ with .Summary }}
+        <p class="fs-4 serif">{{ . }}</p>
+        {{ end }}
+        {{with .Params }}
+        {{ if .link }}
+        <p><strong>Originally published on <a href="{{ .link }}" target="_blank">{{ .source }}</a></strong></p>
+        {{ end }}
+          {{ end }}
+        </div>
+    </div>
+    <div class="container row mb-2 pe-0">
+        <div class="col-4 px-0">
+            <p>
+                {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+                {{ with .Date }}
+                {{ .Format $dateFormat }} 
+                {{ end }}
+            </p>
+            </div>
+                <div class="col-8 m-0 px-0" style="text-align: right;">
+                    {{ with .Params.tags }}
+                    {{ range . }}
+                    <span class="badge tag-badge">{{ . }}</span>
+                    {{ end }}
+                {{ end }}
+                </div>
+                <hr class="dropdown-divider">
+        </div>
+
+    <div class="container-fluid py-3">
+        <div class="serif main-content">
+            {{ .Content }}
+
+<hr class="mt-5">
+<div class="row mt-5">
+  <div class="col-md-4">
+            {{ with .NextInSection }}
+              <a href="{{ .RelPermalink }}" class="badge tag-badge" style="text-wrap:wrap">&larr;{{ .Title }}</a>
+            {{ end }}
+</div>            
+<div class="col-md-4 text-center small">
+            <a href="/{{ .Section }}"><strong>&uarr;All {{ .Parent.Name }}</strong></a>
+          </div>            
+          <div class="col-md-4 text-end">
+            {{ with .PrevInSection }}
+              <a href="{{ .RelPermalink }}" class="badge tag-badge" style="text-wrap:wrap">{{ .Title }}&rarr;</a>
+            {{ end }}        
+          </div>
+    </div>
+          </div>
+    </div>
+</div>
+
+{{ end }}
