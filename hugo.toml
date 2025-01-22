@@ -1,0 +1,58 @@
+baseurl = "/" # The subpath of your site, e.g. / or /blog
+languageCode = "en-us"
+languageLang = "en"
+defaultContentLanguage = "en"
+title = "Leon Barnard's Portfolio"
+themesdir = "themes/"
+theme = 'hugo-digital-garden-theme'
+contentDir = 'themes/hugo-digital-garden-theme/exampleSite/content'
+
+[module]
+  [module.hugoVersion]
+    min = "0.81.0"
+  [[module.imports]]
+    path = 'hugo-digital-garden-theme'
+    
+[params]
+  name = "Leon Barnard"
+  description = "User Experience Specialist and Writer"
+  initials = ""
+  googleAnalytics = ""
+
+  [[params.social]]
+    name = "Github"
+    link = "https://github.com/leon-barnard/"
+    icon = "fab fa-github"
+
+  [[params.social]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/leonbarnard"
+    icon = "fab fa-linkedin-in"
+  
+[menu]
+  [[menu.main]]
+    name = "UX Projects"
+    url = "/design/"
+    weight = 1
+  [[menu.main]]
+    name = "Writing"
+    url = "/writing/"
+    weight = 2
+  [[menu.main]]
+    name = "Speaking"
+    url = "/speaking/"
+    weight = 3
+  [[menu.main]]
+    name = "Fun"
+    url = "/fun/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+    
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true
+

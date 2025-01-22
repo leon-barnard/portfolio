@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Leon Barnard&#39;s Portfolio</title>
+    <link>//localhost:1313/tags/web/</link>
+    <description>Recent content in Web on Leon Barnard&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Considerations for Using Markdown Writing Apps on Static Sites</title>
+      <link>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</guid>
+      <description>If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.</description>
+    </item>
+    <item>
+      <title>Hugo Templates for WordPress Designers</title>
+      <link>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</guid>
+      <description>Dive into the basics of the popular static site generator called Hugo by comparing it to its most well-known &amp;quot;dynamic&amp;quot; ancestor, WordPress.</description>
+    </item>
+    <item>
+      <title>Getting Started with Static Sites</title>
+      <link>//localhost:1313/writing/getting-started-with-static-sites/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/getting-started-with-static-sites/</guid>
+      <description>You may have heard the buzz about so-called &amp;quot;static&amp;quot; websites. In this post we&#39;ll tell you what they are, what&#39;s the big deal, and what you need to know to build one.</description>
+    </item>
+    <item>
+      <title>HTML and CSS: Still Relevant for Designers</title>
+      <link>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</guid>
+      <description>Knowing only HTML and CSS will still get you far as a designer, and can give you all the qualifications you need to meet the new bar for designers.</description>
+    </item>
+  </channel>
+</rss>

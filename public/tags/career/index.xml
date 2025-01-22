@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Leon Barnard&#39;s Portfolio</title>
+    <link>//localhost:1313/tags/career/</link>
+    <description>Recent content in Career on Leon Barnard&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Developers on Your Side by Making Their Job Easier</title>
+      <link>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</guid>
+      <description>If you’ve never worked in the software industry before, learning the culture can be a huge part of your first year on the job.</description>
+    </item>
+    <item>
+      <title>From the Classroom to the Cubicle: UX in the Real World</title>
+      <link>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</guid>
+      <description>When you arrive at your first UX job you&#39;ll find conditions a little different than they were in the classroom.</description>
+    </item>
+    <item>
+      <title>Soft Skills for UX Designers</title>
+      <link>//localhost:1313/writing/soft-skills-for-ux-designers/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/soft-skills-for-ux-designers/</guid>
+      <description>These practicable skills can be invaluable in getting your ideas and hard work into the end product.</description>
+    </item>
+    <item>
+      <title>Forget your Dream Job</title>
+      <link>//localhost:1313/writing/forget-your-dream-job/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/forget-your-dream-job/</guid>
+      <description>I finally landed mine. And I was miserable.</description>
+    </item>
+  </channel>
+</rss>

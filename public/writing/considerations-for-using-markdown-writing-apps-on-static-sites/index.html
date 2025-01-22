@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Boogaloo&family=Chicle&family=Mogra&family=Outfit:wght@100..900&family=Permanent+Marker&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/all.min.css">
+    <link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/my_style.css">
+    
+    
+    
+    <title>Leon Barnard&#39;s Portfolio | Considerations for Using Markdown Writing Apps on Static Sites</title>
+    <meta name="description" content="If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.">
+</head><body><nav class="navbar navbar-expand-lg">
+    <div class="container">
+        <a class="navbar-brand" href="//localhost:1313/">
+            
+            <b style="font-weight: 700;">Leon Barnard</b>
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ms-auto mt-2 mt-lg-0"><li class='nav-item '>
+                    <a class="nav-link" href="/design/"> UX Projects</a>
+                </li>
+            <li class='nav-item '>
+                    <a class="nav-link" href="/writing/"> Writing</a>
+                </li>
+            <li class='nav-item '>
+                    <a class="nav-link" href="/speaking/"> Speaking</a>
+                </li>
+            <li class='nav-item '>
+                    <a class="nav-link" href="/fun/"> Fun</a>
+                </li>
+            <li class='nav-item '>
+                    <a class="nav-link" href="/about/"> About</a>
+                </li>
+             
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="retro-stripes">
+    <div class="stripe stripe-1"></div>
+    <div class="stripe stripe-2"></div>
+    <div class="stripe stripe-3"></div>
+</div>
+<div id="content">
+
+<div class="container" style="max-width: 820px;">
+    <div class="pb-0 pt-4 mt-2">
+        <div class="container-fluid py-2">
+            <h1 class="display-2 mb-4 text-center">Considerations for Using Markdown Writing Apps on Static Sites</h1>
+        
+        <p class="fs-4 serif">If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.</p>
+        
+        
+        
+        <p><strong>Originally published on <a href="//css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/" target="_blank">CSS-Tricks</a></strong></p>
+        
+          
+        </div>
+    </div>
+    <div class="container row mb-2 pe-0">
+        <div class="col-4 px-0">
+            <p>
+                
+                
+                Oct 6, 2021 
+                
+            </p>
+            </div>
+                <div class="col-8 m-0 px-0" style="text-align: right;">
+                    
+                    
+                    <span class="badge tag-badge">web</span>
+                    
+                    <span class="badge tag-badge">favorite</span>
+                    
+                
+                </div>
+                <hr class="dropdown-divider">
+        </div>
+
+    <div class="container-fluid py-3">
+        <div class="serif main-content">
+            <p>If you run or have recently switched to a <a href="https://serverless.css-tricks.com/services/ssgs" target="_blank">static site generator</a>, you probably write a lot of <a href="https://css-tricks.com/probably-blog-markdown/" target="_blank">Markdown</a>.</p>
+<p>I’m going to give you some options (including my favorite), but more importantly, I’ll walk though features that these apps offer that are especially relevant when choosing. Here are some key considerations for Markdown editing apps to help the words flow.</p>
+<h3 id="consideration-1-separate-writing-and-reading-modes"id="consideration-1-separate-writing-and-reading-modes"
+>Consideration #1: Separate writing and reading modes 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#consideration-1-separate-writing-and-reading-modes&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>UX principles tell us that <a href="https://www.nngroup.com/articles/modes/" target="_blank">modes are problematic</a>. But perhaps there is an exception for text editing software. From vi(m) to Google Docs, separate modes for writing and reading seem to appeal to writers. Similarly, many Markdown editors have separate modes or views for writing, editing and reading.</p>
+<p>I happen to like Markdown editors that provide a side-by-side or paned design where I can see both at once. Writing Markdown is not the same as writing code. What it looks like matters, and having a preview can give you a feel for that. It’s kind of like static site generators that auto-refresh so that you can see your changes as you make them.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1632522847398_Untitled_2.png?resize=2880%2C1480&amp;ssl=1" alt=""></p>
+<p>Having both edit and preview mode active at once can help you feel more connected to the finished product.</p>
+<p>In contrast, I’m not a fan of the <em>one-mode-to-rule-them-all</em> design where Markdown formatting automatically converts to styled text, hiding the formatted code (implemented in some form by <a href="https://paper.dropbox.com" target="_blank">Dropbox Paper</a>, <a href="https://typora.io/" target="_blank">Typora</a>, <a href="https://ulysses.app/" target="_blank">Ulysses</a>, and <a href="https://bear.app" target="_blank">Bear</a>). I can’t stand the work of futzing with the app to change a heading level, for example. <em>Do I click it, double-click, triple-click? What if I’m just using the keyboard?</em></p>
+<p>It’s not so much that these features aren’t useful, it’s that they break my flow.</p>
+<p>I want to see all the Markdown that I’ve written, even if the end user won’t. That’s one thing that I <em>do</em> want a Markdown editor to borrow from code editors.</p>
+<h3 id="consideration-2-good-themes"id="consideration-2-good-themes"
+>Consideration #2: Good themes 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#consideration-2-good-themes&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>Some Markdown editors allow full customization of editor themes, while others ship with nice ones out of the box. Regardless, I think a good editor should have <em>just the right amount</em> of styling to differentiate plain text from formatted text, but not so much that it distracts you from being able to read it and focus on the content. Even with the preview pane open, I typically spend most of my time looking at the editing view.</p>
+<h4 id="different-colors-for-each-style"id="different-colors-for-each-style"
+>Different colors for each style 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#different-colors-for-each-style&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p>Since most of the text in the editor isn’t going to be rendered as it would in the browser, it’s nice to quickly see which text you’ve formatted using Markdown. This helps you determine, for example, whether a URL is actually written out in the text or is used inside a hyperlink. So, I like to have a different color for each Markdown style (headings, links, bold, italic, quotes, images, code, bullets, etc.)</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1632523536999_Untitled-2.png?resize=1024%2C494&amp;ssl=1" alt=""></p>
+<p>Colors tell you which text has Markdown formatting applied.</p>
+<h4 id="apply-bold-and-italics-styles-too"id="apply-bold-and-italics-styles-too"
+>Apply bold and italics styles too 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#apply-bold-and-italics-styles-too&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p>I prefer to use asterisks for Markdown formatting everywhere I’m able to (e.g., bold, italics, and unordered lists), so I find it helpful to have extra styling beyond color to distinguish bold, italic, and bold+italic. When skimming it can be hard to differentiate between <code>**this is important**</code> and <code>*this is important*</code>, whereas <code>****this is important****</code> and <code>*_this is important_*</code> are easier to separate. It also helps me see if I’ve accidentally mismatched asterisks (e.g., <code>**is this important?*</code>).</p>
+<h4 id="different-font-sizes-for-each-heading-level"id="different-font-sizes-for-each-heading-level"
+>Different font sizes for each heading level 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#different-font-sizes-for-each-heading-level&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p>This might be a bit controversial and may split the audience. Code editors don’t show different font sizes within a file. Colors and styles, sure, but not sizes. But, for me, it helps.</p>
+<p>When writing, <a href="https://balsamiq.com/learn/articles/visual-hierarchy-and-alignment/" target="_blank">hierarchy</a> is the key to organization. With different font sizes for each heading, you can see the outline of whatever you’re writing just by skimming through it.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1632523607068_HTML_and_CSS_md-3.png?resize=1618%2C920&amp;ssl=1" alt=""></p>
+<p>Seeing the headings in different font sizes is a subtle way to help you visualize the structure. This is especially helpful for long content.</p>
+<h4 id="shortcuts-and-smart-keyboard-behaviors"id="shortcuts-and-smart-keyboard-behaviors"
+>Shortcuts and smart keyboard behaviors 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#shortcuts-and-smart-keyboard-behaviors&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p>I expect all the standard shortcuts that work in a text editor to work. CTRL/CMD + B for bold, I for italic, etc., as well as some that are nice-to-have when writing articles, in particular CTRL/CMD + (number) for headings. CTRL/CMD + 1 for H1, etc.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631300079236_ScreenRecording2021-09-10at11.52.32AM.gif?resize=1302%2C290&amp;ssl=1" alt=""></p>
+<p>Making something into a heading should be a simple shortcut.</p>
+<p>But there are also some keyboard behaviors I like that are borrowed from code editors. For example, if I select some text and press <code>[</code> or <code>(</code> it won’t overwrite that text, but, instead, enclose it with the opening and closing character. Same for using text formatting characters like <code>*</code>, <code>`</code>, and <code>_</code>.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631299676611_ScreenRecording2021-09-10at11.46.17AM.gif?resize=1302%2C228&amp;ssl=1" alt=""></p>
+<p>A good Markdown editor won’t overwrite your text when you select it and press a valid Markdown formatting character.</p>
+<p>I also rely on keyboard shortcuts to create links and images. Even after more than five years of writing Markdown on a regular basis, I still sometimes forget whether the brackets or parentheses comes first. So, I really like having a handy shortcut to insert them correctly.</p>
+<p>Even better, in some editors, if you have a URL in your clipboard and you select text then use a keyboard shortcut to make it into a link, it will insert the URL in the hyperlink field. This has really sped up my workflow.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631299491648_ScreenRecording2021-09-10at11.40.45AM-2.gif?resize=1302%2C228&amp;ssl=1" alt=""></p>
+<p>When I have a URL in the clipboard and use the create link shortcut, it assumes that’s what I want to link to. Handy!</p>
+<h4 id="bonus-feature-copy-to-html"id="bonus-feature-copy-to-html"
+>Bonus feature: Copy to HTML 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#bonus-feature-copy-to-html&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p>The editor that I use most often has a one-click “Copy HTML” feature (with keyboard shortcut) that takes all of the Markdown I’ve written and copies the HTML to the clipboard. This can be very convenient when using an online editor (e.g., WordPress) that has a code/source option.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631300204710_Format_and_Menubar_and_Untitled_md.png?resize=646%2C264&amp;ssl=1" alt=""></p>
+<p>Easy peasy!</p>
+<h3 id="consideration-3-stand-alone-editor-vs-cmside-plugin"id="consideration-3-stand-alone-editor-vs-cmside-plugin"
+>Consideration #3: Stand-alone editor vs. CMS/IDE plugin 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#consideration-3-stand-alone-editor-vs-cmside-plugin&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>I know that a lot of people who work with static site generators love their IDEs and may even jump back and forth between code and Markdown in a single day. I often do. So I can see why using a familiar IDE would be more attractive than having a separate app for Markdown.</p>
+<p>But when I’m sitting down to write a page in Markdown or an article, where I’m focusing on the text itself, I prefer a separate app.</p>
+<p>I’m not fanatical about using standalone Markdown editors over IDE editor or plugins; I use one occasionally for complex find-and-replace tasks and other edits. As long as it offers the benefits listed above, I wouldn’t try to talk anyone out of it.</p>
+<p>Here are a few reasons why a standalone app might work better for writing:</p>
+<ul>
+<li><strong>Cleaner interface.</strong> I’m not someone who needs “Zen mode” in my writing app, but I do like to have as few panels open as possible when I’m writing, which typically requires turning a lot of things off in an IDE.</li>
+<li><strong>Performance.</strong> Most Markdown tools just feel lighter to me. They are certainly less complex and do less stuff, so they <em>should</em> be faster. I don’t ever want to feel like my writing app is exerting any effort. It should launch fast and respond instantly, always.</li>
+<li><strong>Availability.</strong> I just haven’t found a Markdown editor in an IDE that I really like. Perhaps there is one out there; I just don’t have time to try them all. But I <em>like</em> most standalone Markdown editors that I’ve used, and I can’t say the same for what I’ve tried in IDE-land.</li>
+<li><strong>Mental shift.</strong> When I open my IDE, I’m thinking about writing code, but when I open my Markdown editor, I’m thinking about writing words. I like that it gets me into the right mindset.</li>
+</ul>
+<p>That’s a few too many choices.</p>
+<h3 id="my-favorite-markdown-editors-for-writing"id="my-favorite-markdown-editors-for-writing"
+>My favorite Markdown editors for writing 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#my-favorite-markdown-editors-for-writing&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>While these are my top picks, it doesn’t mean that if an app <em>isn’t</em> on this list that it’s bad. There are several good apps that I didn’t mention because they had too many features or were too expensive given the number of decent free or cheap options. And similar to IDE packages, there are a ton of Markdown apps out there and I haven’t tried them all (but I have tried a lot of them!).</p>
+<p>A note about features that help you get “into the zone,” such as “typewriter” or “focus” modes, or soothing background music. They’ve never really worked for me and I eventually turn them off, so they aren’t a feature that I go looking for. (Although if you are into those, you can try <a href="https://typora.io" target="_blank">Typora</a>, which is free (during Beta) and runs on Mac, Windows, and Linux.)</p>
+<h4 id="my-top-choice"id="my-top-choice"
+>My top choice 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#my-top-choice&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/10/macdown-logo-bigger.png?resize=512%2C512&amp;ssl=1" alt=""></p>
+<h5 id="macdownhttpsmacdownuranusjrcom"id="macdownhttpsmacdownuranusjrcom"
+><a href="https://macdown.uranusjr.com" target="_blank"><strong>MacDown</strong></a> 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#macdownhttpsmacdownuranusjrcom&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h5><p>Free; Mac</p>
+<p>Meets all the criteria listed above. It’s light and snappy, and open source.</p>
+<p>A good, similar alternative for Windows and Linux is <a href="https://wereturtle.github.io/ghostwriter/" target="_blank"><strong>Ghostwriter</strong></a> (also free).</p>
+<h4 id="honorable-mentions"id="honorable-mentions"
+>Honorable mentions 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#honorable-mentions&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h4><p><img src="https://paper-attachments.dropbox.com/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631306763355_lightpaper-logo.png" alt=""></p>
+<h5 id="lightpaperhttpsgetlightpapercom"id="lightpaperhttpsgetlightpapercom"
+><a href="https://getlightpaper.com" target="_blank"><strong>Lightpaper</strong></a> 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#lightpaperhttpsgetlightpapercom&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h5><p>$15; Mac</p>
+<p>Good for if you want just a bit more functionality. It adds a third pane so that you can easily switch between your files and folders.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631306781927_obsidian-logo.png?resize=132%2C132&amp;ssl=1" alt=""></p>
+<h5 id="obsidianhttpsobsidianmd"id="obsidianhttpsobsidianmd"
+><a href="https://obsidian.md" target="_blank"><strong>Obsidian</strong></a> 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#obsidianhttpsobsidianmd&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h5><p>Free for personal use; Mac, Windows, Linux</p>
+<p>For a more full-featured app, the editor interface is pretty good, and meets most of the criteria mentioned above. <a href="https://www.zettlr.com/" target="_blank">Zettlr</a> offers similar features, but just feels more complicated, IMO.</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1631306796527_byword-logo.png?resize=132%2C132&amp;ssl=1" alt=""></p>
+<h5 id="bywordhttpsbywordappcom"id="bywordhttpsbywordappcom"
+><a href="https://bywordapp.com" target="_blank"><strong>Byword</strong></a> 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#bywordhttpsbywordappcom&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h5><p>$11; Mac, iOS</p>
+<p>Not my favorite app for writing and editing text, but it has the nice added ability to publish to various platforms (e.g., Medium, WordPress, Tumblr, Blogger, and Evernote).</p>
+<p><img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/s_62F4A2E5945C8D80E22E10CFD4BD87A5E2C7E9B01374117F1AB612AD6F3C80A7_1632526211592_bear-logo.png?resize=132%2C132&amp;ssl=1" alt=""></p>
+<h5 id="bearhttpsbearapp"id="bearhttpsbearapp"
+><a href="https://bear.app" target="_blank"><strong>Bear</strong></a> 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#bearhttpsbearapp&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h5><p>Free or $1.49/mo. for Pro version; Mac, iOS</p>
+<p>A good choice if you use Markdown for more than just site content (personal notes, task management, etc.). Scores high in appearance and usability, too.</p>
+<h3 id="summary"id="summary"
+>Summary 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/#summary&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>With Markdown syntax being supported in more and more places — including Slack, GitHub, WordPress, etc. — it is quickly becoming a <em>lingua franca</em> for richer communication in our increasingly text-based lives. It’s here to stay because it’s not only easy to learn and use, it’s intuitive. And luckily we’re currently spoiled for choice when it comes to quality Markdown writing apps.</p>
+
+
+<hr class="mt-5">
+<div class="row mt-5">
+  <div class="col-md-4">
+            
+              <a href="/writing/common-website-mistakes-and-how-to-fix-them/" class="badge tag-badge" style="text-wrap:wrap">&larr;Common Website Mistakes and How to Fix Them</a>
+            
+</div>            
+<div class="col-md-4 text-center small">
+            <a href="/writing"><strong>&uarr;All Writing</strong></a>
+          </div>            
+          <div class="col-md-4 text-end">
+            
+              <a href="/writing/get-developers-on-your-side-by-making-their-job-easier/" class="badge tag-badge" style="text-wrap:wrap">Get Developers on Your Side by Making Their Job Easier&rarr;</a>
+                    
+          </div>
+    </div>
+          </div>
+    </div>
+</div>
+
+
+        </div><div id="footer" class="mt-5">
+  <div class="retro-stripes">
+      <div class="stripe stripe-1"></div>
+      <div class="stripe stripe-2"></div>
+      <div class="stripe stripe-3"></div>
+  </div>
+  <div class="container">
+    <div class="row justify-content-between pt-3">
+        <div class="col-sm-4">
+            <p class="footer">&copy; 2025 Leon Barnard </p>
+        </div>
+        <div class="col-sm-6 d-flex flex-row-reverse">
+            
+            <a class="footer-social px-2"  href="https://github.com/leon-barnard/" target="_blank"><i class="fab fa-github"></i></a>
+            
+            <a class="footer-social px-2"  href="https://www.linkedin.com/in/leonbarnard" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            
+        </div>
+    </div>
+  </div>
+</div>
+<script src="/js/bootstrap.min.js"></script>
+
+</body>
+</html>

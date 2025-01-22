@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireframing on Leon Barnard&#39;s Portfolio</title>
+    <link>//localhost:1313/tags/wireframing/</link>
+    <description>Recent content in Wireframing on Leon Barnard&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/wireframing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wireframing for Everyone</title>
+      <link>//localhost:1313/writing/wireframing-for-everyone/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/wireframing-for-everyone/</guid>
+      <description>Wireframing for Everyone demystifies UI design through wireframes, by stripping away the decorative layer so that anyone can learn to construct a digital product and make it easy to use. Get it free.</description>
+    </item>
+    <item>
+      <title>Five Steps to Creating Great Wireframes</title>
+      <link>//localhost:1313/writing/five-steps-to-creating-great-wireframes/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/five-steps-to-creating-great-wireframes/</guid>
+      <description>Good wireframes solve real problems and lead to strong products. From writing out the scenario to gathering inputs, here is a proven path to a great website or app.</description>
+    </item>
+    <item>
+      <title>How to Start a Wireframe Project</title>
+      <link>//localhost:1313/writing/how-to-start-a-wireframe-project/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/how-to-start-a-wireframe-project/</guid>
+      <description>Four techniques to start a wireframe project from scratch and ensure that you dedicate enough time to the ideation phase, where the success of your product begins.</description>
+    </item>
+    <item>
+      <title>How to Use Wireframes with Design Systems</title>
+      <link>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</guid>
+      <description>An alternative to pushing wireframes beyond their limits is to keep them low fidelity and let another tool do the work of specifying the look and feel.</description>
+    </item>
+    <item>
+      <title>UI vs. UX: A Culinary Comparison</title>
+      <link>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</guid>
+      <description>This article will combine storytelling with analogy to approach the subject of explaining UX differently.</description>
+    </item>
+    <item>
+      <title>Wireframing for Beginners</title>
+      <link>//localhost:1313/writing/wireframing-for-beginners/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/wireframing-for-beginners/</guid>
+      <description>Wireframing is an essential skill for UX Designers and other experience design participants. Learn how to get your wireframing off to the right start.</description>
+    </item>
+    <item>
+      <title>Tips for Presenting Your Wireframes</title>
+      <link>//localhost:1313/writing/tips-for-presenting-your-wireframes/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/tips-for-presenting-your-wireframes/</guid>
+      <description>Once you’re done with your wireframes, you’ll need to present them to get someone’s approval. Learn 3 effective strategies to get buy-in and move forward.</description>
+    </item>
+    <item>
+      <title>3 Steps to Better UI Wireframes</title>
+      <link>//localhost:1313/writing/3-steps-to-better-ui-wireframes/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/3-steps-to-better-ui-wireframes/</guid>
+      <description>If you&#39;re new to wireframing, or are looking to level up your wireframe game, these steps should help you get the most out of the wireframing stage.</description>
+    </item>
+    <item>
+      <title>Using Wireframes with Agile User Stories</title>
+      <link>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</guid>
+      <description>A step-by-step guide on how to use wireframes in your Agile User Stories. Tips: add just enough detail and focus on what developers really need to know.</description>
+    </item>
+  </channel>
+</rss>

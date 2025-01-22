@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Favorite on Leon Barnard&#39;s Portfolio</title>
+    <link>//localhost:1313/tags/favorite/</link>
+    <description>Recent content in Favorite on Leon Barnard&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/favorite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wireframing for Everyone</title>
+      <link>//localhost:1313/writing/wireframing-for-everyone/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/wireframing-for-everyone/</guid>
+      <description>Wireframing for Everyone demystifies UI design through wireframes, by stripping away the decorative layer so that anyone can learn to construct a digital product and make it easy to use. Get it free.</description>
+    </item>
+    <item>
+      <title>Considerations for Using Markdown Writing Apps on Static Sites</title>
+      <link>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</guid>
+      <description>If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.</description>
+    </item>
+    <item>
+      <title>How to Start a Wireframe Project</title>
+      <link>//localhost:1313/writing/how-to-start-a-wireframe-project/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/how-to-start-a-wireframe-project/</guid>
+      <description>Four techniques to start a wireframe project from scratch and ensure that you dedicate enough time to the ideation phase, where the success of your product begins.</description>
+    </item>
+    <item>
+      <title>How to Use Wireframes with Design Systems</title>
+      <link>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</guid>
+      <description>An alternative to pushing wireframes beyond their limits is to keep them low fidelity and let another tool do the work of specifying the look and feel.</description>
+    </item>
+    <item>
+      <title>Hugo Templates for WordPress Designers</title>
+      <link>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</guid>
+      <description>Dive into the basics of the popular static site generator called Hugo by comparing it to its most well-known &amp;quot;dynamic&amp;quot; ancestor, WordPress.</description>
+    </item>
+    <item>
+      <title>Balsamiq Docs Case Study, Part 3: Lists Get a Makeover</title>
+      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</guid>
+      <description>Give list pages a makeover using Hugo, a static site generator, with source files on GitHub from Leon Barnard, Designer and Writer at Balsamiq.</description>
+    </item>
+    <item>
+      <title>Wireframing for Beginners</title>
+      <link>//localhost:1313/writing/wireframing-for-beginners/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/wireframing-for-beginners/</guid>
+      <description>Wireframing is an essential skill for UX Designers and other experience design participants. Learn how to get your wireframing off to the right start.</description>
+    </item>
+    <item>
+      <title>From the Classroom to the Cubicle: UX in the Real World</title>
+      <link>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</guid>
+      <description>When you arrive at your first UX job you&#39;ll find conditions a little different than they were in the classroom.</description>
+    </item>
+    <item>
+      <title>Getting Started with Static Sites</title>
+      <link>//localhost:1313/writing/getting-started-with-static-sites/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/getting-started-with-static-sites/</guid>
+      <description>You may have heard the buzz about so-called &amp;quot;static&amp;quot; websites. In this post we&#39;ll tell you what they are, what&#39;s the big deal, and what you need to know to build one.</description>
+    </item>
+    <item>
+      <title>HTML and CSS: Still Relevant for Designers</title>
+      <link>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</guid>
+      <description>Knowing only HTML and CSS will still get you far as a designer, and can give you all the qualifications you need to meet the new bar for designers.</description>
+    </item>
+    <item>
+      <title>Soft Skills for UX Designers</title>
+      <link>//localhost:1313/writing/soft-skills-for-ux-designers/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/soft-skills-for-ux-designers/</guid>
+      <description>These practicable skills can be invaluable in getting your ideas and hard work into the end product.</description>
+    </item>
+    <item>
+      <title>Forget your Dream Job</title>
+      <link>//localhost:1313/writing/forget-your-dream-job/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/forget-your-dream-job/</guid>
+      <description>I finally landed mine. And I was miserable.</description>
+    </item>
+    <item>
+      <title>Using Wireframes with Agile User Stories</title>
+      <link>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</guid>
+      <description>A step-by-step guide on how to use wireframes in your Agile User Stories. Tips: add just enough detail and focus on what developers really need to know.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Leon Barnard&#39;s Portfolio</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Leon Barnard&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Favorite</title>
+      <link>//localhost:1313/tags/favorite/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/favorite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ux</title>
+      <link>//localhost:1313/tags/ux/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireframing</title>
+      <link>//localhost:1313/tags/wireframing/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/wireframing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>//localhost:1313/tags/marketing/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>//localhost:1313/tags/web/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>//localhost:1313/tags/career/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>//localhost:1313/tags/docs/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>//localhost:1313/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>//localhost:1313/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prototyping</title>
+      <link>//localhost:1313/tags/prototyping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/prototyping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireframes</title>
+      <link>//localhost:1313/tags/wireframes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/wireframes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
