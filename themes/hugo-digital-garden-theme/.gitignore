@@ -1,2 +1,4 @@
 exampleSite/resources/*
 public/
+/public/*
+/resources/*
