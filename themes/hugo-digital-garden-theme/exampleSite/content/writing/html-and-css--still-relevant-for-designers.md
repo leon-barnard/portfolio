@@ -77,7 +77,7 @@ Let’s look at some code from the official [React tutorial](http://facebook.git
 
 See everything in that `return` block? That’s HTML. The only thing you need to switch in your brain is that “className” means CSS class. That’s it. You can essentially ignore the rest and write the HTML and CSS for your developer without needing to code anything in React.
 
-![HTML and CSS: So Hot Right Now](https://blog.teamtreehouse.com/wp-content/uploads/2016/02/htmlandcsshot-300x240.jpg "made at imgflip.com")
+![HTML and CSS: So Hot Right Now](/htmlandcsshot.jpg)
 
 Even when it gets [a little more complicated](http://facebook.github.io/react/docs/tutorial.html#using-props)…
 
