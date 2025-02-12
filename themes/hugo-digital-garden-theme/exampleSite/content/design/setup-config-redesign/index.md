@@ -2,7 +2,7 @@
 title: "Setup and Configuration Redesign"
 draft: false
 summary: "A redesign of the setup and configuration interface for a physical therapy product as a UX team of one."
-weight: 1
+weight: 10
 Tags: ["Wireframes", "Prototyping", "HTML", "CSS", "Research"]
 ---
 

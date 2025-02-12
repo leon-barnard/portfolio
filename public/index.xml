@@ -9,6 +9,20 @@
     <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agile User Stories and Design Specifications</title>
+      <link>//localhost:1313/design/agile-user-stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/design/agile-user-stories/</guid>
+      <description>Research, writing, and design for user stories and design specifications.</description>
+    </item>
+    <item>
+      <title>UI Design for Infection Prevention</title>
+      <link>//localhost:1313/design/ui-infection-prevetion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/design/ui-infection-prevetion/</guid>
+      <description>A series of UI design projects to provide needed capabilities to hospital Infection Prevention specialists.</description>
+    </item>
+    <item>
       <title>Setup and Configuration Redesign</title>
       <link>//localhost:1313/design/setup-config-redesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,25 +51,11 @@
       <description>If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.</description>
     </item>
     <item>
-      <title>Red Panda</title>
-      <link>//localhost:1313/speaking/book1/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/book1/</guid>
-      <description>Biology and Conservation of the First Panda</description>
-    </item>
-    <item>
       <title>Get Developers on Your Side by Making Their Job Easier</title>
       <link>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</guid>
       <description>If you’ve never worked in the software industry before, learning the culture can be a huge part of your first year on the job.</description>
-    </item>
-    <item>
-      <title>Fuji Takes a Walk</title>
-      <link>//localhost:1313/speaking/book2/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/book2/</guid>
-      <description></description>
     </item>
     <item>
       <title>Five Steps to Creating Great Wireframes</title>

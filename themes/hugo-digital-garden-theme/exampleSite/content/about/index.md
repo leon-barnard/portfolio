@@ -5,9 +5,10 @@ summary: "Designer, Writer, and Thinker"
 layout: about
 ---
 
-I have a reddish-brown fur, a long, shaggy tail, and a waddling gait due to my shorter front legs; I'm roughly the size of a domestic cat, though with a longer body.
-I live in trees and feed mainly on bamboo, but I also eat eggs, birds, and insects.
+I'm a User Experience Specialist, Content and Technical Writer, and co-author of [_Wireframing for Everyone_](/writing/wireframing-for-everyone/), published by A Book Apart. 
 
-I joined the IUCN Endangered species red list in 2008 as a result of a constant population decline caused by habitat loss, poaching and inbreed depression.
+The unifying theme throughout my career has been helping people and technology get along better.
 
-For more information, you can take a look at my [Wikipedia page](https://en.wikipedia.org/wiki/Red_panda_)
+This site highlights some of my notable work across writing, speaking, and UX design. 
+
+To learn more about my skills and experience, check out [my LinkedIn profile](https://www.linkedin.com/in/leonbarnard) or [download my Résumé](https://www.leon.land/LeonBarnardResume.pdf).

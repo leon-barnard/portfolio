@@ -31,7 +31,7 @@ contentDir = 'themes/hugo-digital-garden-theme/exampleSite/content'
   
 [menu]
   [[menu.main]]
-    name = "UX Projects"
+    name = "UX Design"
     url = "/design/"
     weight = 1
   [[menu.main]]
@@ -42,10 +42,10 @@ contentDir = 'themes/hugo-digital-garden-theme/exampleSite/content'
     name = "Speaking"
     url = "/speaking/"
     weight = 3
-  [[menu.main]]
-    name = "Fun"
-    url = "/fun/"
-    weight = 4
+  # [[menu.main]]
+  #   name = "Fun"
+  #   url = "/fun/"
+  #   weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"

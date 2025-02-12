@@ -2,13 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/design/agile-user-stories/</loc>
+  </url><url>
+    <loc>//localhost:1313/design/ui-infection-prevetion/</loc>
+  </url><url>
     <loc>//localhost:1313/design/setup-config-redesign/</loc>
-  </url><url>
-    <loc>//localhost:1313/design/project1/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/design/project3/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/favorite/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
@@ -43,17 +41,11 @@
     <loc>//localhost:1313/design/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/speaking/book1/</loc>
-    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/career/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/speaking/book2/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/speaking/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
@@ -130,6 +122,8 @@
     <loc>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</loc>
     <lastmod>2013-02-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/agile/</loc>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/tags/css/</loc>
@@ -139,6 +133,8 @@
     <loc>//localhost:1313/tags/prototyping/</loc>
   </url><url>
     <loc>//localhost:1313/tags/research/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/ui-design/</loc>
   </url><url>
     <loc>//localhost:1313/tags/wireframes/</loc>
   </url>

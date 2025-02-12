@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-6 col-12">
   <div class="red-border mx-0">
-    <div class="card top-highlight p-0">
+    <div class="card top-highlight pb-0">
         {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
         {{ with $img }}
         <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="card-img pb-3">

@@ -31,16 +31,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ms-auto mt-2 mt-lg-0"><li class='nav-item '>
-                    <a class="nav-link" href="/design/"> UX Projects</a>
+                    <a class="nav-link" href="/design/"> UX Design</a>
                 </li>
             <li class='nav-item '>
                     <a class="nav-link" href="/writing/"> Writing</a>
                 </li>
             <li class='nav-item '>
                     <a class="nav-link" href="/speaking/"> Speaking</a>
-                </li>
-            <li class='nav-item '>
-                    <a class="nav-link" href="/fun/"> Fun</a>
                 </li>
             <li class='nav-item '>
                     <a class="nav-link" href="/about/"> About</a>
@@ -94,9 +91,285 @@
 
     <div class="container-fluid py-3">
         <div class="serif main-content">
-            
+            <h2 id="the-first-static-sites"id="the-first-static-sites"
+>The First Static Sites 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#the-first-static-sites&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>In the <a href="http://bgr.com/2015/07/24/1990s-websites-abandoned-still-running/" target="_blank">early years of the web</a>, when <a href="http://teamtreehouse.com/learn/html" target="_blank">HTML</a> was the only language for making websites, all sites were “static,” consisting of a simple hand-off of text and image files between a network server and a program on your computer. Opening a website was essentially just viewing files on someone else’s computer.</p>
+<p>This was fine when sites were small and looked like this:</p>
+<p><img src="/space-jam-website.jpg" alt="Space Jam website"><br>
+(<em><a href="http://www.warnerbros.com/archive/spacejam/movie/jam.htm" target="_blank">Source</a></em>)</p>
+<p>But because websites consisted of files that linked to other files, whenever web developers wanted to add a page, change a link, or rename something they had to edit each file that referenced the file to be changed. As sites got increasingly complex this became untenable.</p>
+<h3 id="enter-server-side-languages"id="enter-server-side-languages"
+>Enter Server-Side Languages 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#enter-server-side-languages&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>To reduce this manual effort, software designed to run on network servers was created. This software could interpret powerful new web languages, such as CGI, ASP, and PHP, and output them to HTML that the browser could read.</p>
+<p><a href="https://blog.teamtreehouse.com/what-is-php" target="_blank">PHP</a> is one of the most popular <em><a href="http://www.codeconquest.com/website/client-side-vs-server-side/" target="_blank">server-side</a></em> languages today. It can do many things that HTML can’t, like include the content of one file inside another or perform mathematical calculations.</p>
+<p>The trade-off is that when you write a website in PHP, the code you upload to the server needs to be <em>translated</em> into HTML before it can be shown to the reader (since <a href="https://blog.teamtreehouse.com/html-css-still-relevant-designers-2016" target="_blank">HTML is what the browser knows</a>).</p>
+<p>Here is an example of what happens when you view a WordPress site (which relies on PHP):</p>
+<p><img src="/31-02_php_scheme.png" alt=""><br>
+(<em><a href="https://minewebdesign.wordpress.com/2013/06/01/workflow-of-php/" target="_blank">Source</a></em>)</p>
+<p>Instead of HTML, the PHP file on the server looks something like this:</p>
+<pre><code>&lt;?php 
+$x = &quot;Hello world!&quot;;
+$y = 'Hello world!';
 
-<hr>
+echo $x;
+echo &quot;&lt;br&gt;&quot;; 
+echo $y;
+?&gt;
+</code></pre>
+<p>The web server translates it to HTML before sending it to the browser. This takes longer than if the server just had plain HTML pages on it.</p>
+<p><em><strong>Related Reading:</strong></em> <a href="https://blog.teamtreehouse.com/should-i-learn-html-before-python" target="_blank">Should I Learn HTML Before Python?</a></p>
+<h2 id="why-static-sites-are-back"id="why-static-sites-are-back"
+>Why Static Sites Are Back 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#why-static-sites-are-back&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>One reason that static sites have re-emerged is because <a href="http://teamtreehouse.com/learn/javascript" target="_blank">JavaScript</a> (which doesn’t need to be interpreted by the server) is taking over many of the duties that server-side languages used to provide. Thanks to frameworks like <a href="https://teamtreehouse.com/library/jquery-basics" target="_blank">jQuery</a>, <a href="https://teamtreehouse.com/library/angular-basics" target="_blank">Angular</a>, and <a href="https://facebook.github.io/react/" target="_blank">React</a>, <strong>today’s “static” pages can do a lot of very dynamic things</strong> (our <a href="https://balsamiq.com/company/contact/" target="_blank">contact us page</a>, for example, is a static page created using React).</p>
+<p>But the main difference between today’s static sites and the original static sites of the 90s is the existence of new <strong>static site generators</strong> (which I’ll explain below) that perform a translation step similar to server-side software, but that happens <em>before</em> uploading, resulting in static files on the server.</p>
+<p>Static site files require no translation processing from the server, so they can be handed over to the web browser on your computer (a.k.a. the client) <strong>as-is</strong>, which is <strong>fast and uncomplicated</strong>.</p>
+<p>There’s a <a href="http://nilclass.com/courses/what-is-a-static-website/" target="_blank">bit more to it</a>, but let’s jump right into how to create a static site.</p>
+<h2 id="what-you-need-to-create-a-static-site"id="what-you-need-to-create-a-static-site"
+>What You Need to Create a Static Site 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#what-you-need-to-create-a-static-site&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>To create a static site you should have a basic knowledge HTML and CSS, and <strong>be open to learning a few new tools</strong>.</p>
+<p>The static site workflow looks like this:</p>
+<p><img src="/static-diagram.png" alt=""></p>
+<p>There are three main components:</p>
+<ol>
+<li><strong>A Markup Language</strong></li>
+<li><strong>A Style Language</strong></li>
+<li><strong>A Processing Tool (a.k.a. “Generator”)</strong></li>
+</ol>
+<p>Each component has several options, but the general workflow should be pretty much the same.</p>
+<h3 id="markup-languages"id="markup-languages"
+>Markup Languages 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#markup-languages&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>Wait, you say, isn’t HTML <em>the</em> markup language for the web? Yes, but with static site generators you can use a variety of markup languages that are compiled (converted) to HTML. You can think of these languages as a kind of shorthand for HTML.</p>
+<p>There are two main reasons why you would use a markup language other than HTML:</p>
+<ol>
+<li>You want something more powerful (akin to a server-side language)</li>
+<li>You want something that’s easier to write and/or read</li>
+</ol>
+<p>Let’s look at one that gives you both, called <a href="http://jade-lang.com/" target="_blank">Jade</a>.</p>
+<p>In Jade, you can write this:</p>
+<pre><code>doctype html
+html(lang=&quot;en&quot;)
+  head
+    title= pageTitle
+  body
+    h1 Jade - node template engine
+    #container.col
+      if youAreUsingJade
+        p You are amazing
+      else
+        p Get on it!
+      p.
+        Jade is a terse and simple
+        templating language with a
+        strong focus on performance
+        and powerful features.
+</code></pre>
+<p>Instead of this:</p>
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;title&gt;Jade&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Jade - node template engine&lt;/h1&gt;
+    &lt;div id=&quot;container&quot; class=&quot;col&quot;&gt;
+      &lt;p&gt;You are amazing&lt;/p&gt;
+      &lt;p&gt;
+        Jade is a terse and simple
+        templating language with a
+        strong focus on performance
+        and powerful features.
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<p>Notice that it doesn’t require the HTML-style angle brackets (e.g., <tag></tag>). It relies on the indentation hierarchy to determine which elements contain others. This makes it more compact and easy to read.</p>
+<p>Also, in the example above there is an if-else statement, like those found in server-side programming languages. Not shown is the ability include (“extend”) one Jade file in another. Both of these are things that plain HTML can’t do.</p>
+<p>Other languages that are similar include <a href="http://haml.info/" target="_blank">HAML</a>, <a href="http://slim-lang.com/" target="_blank">Slim</a>, and <a href="http://ejs.co/" target="_blank">EJS</a>.</p>
+<p>Another popular language for writing simple HTML is <a href="https://daringfireball.net/projects/markdown/" target="_blank">Markdown</a> (which I used to write this post). It looks like this:</p>
+<pre><code># this is a big heading
+
+this is a regular paragraph of text with a [link](http://example.com).
+
+here is a list:
+
+* item one
+* item two
+</code></pre>
+<p>It’s important to note that Markdown is not a complete replacement for HTML like Jade and HAML are. Markdown is mostly for the <strong>content part of your HTML</strong> file, the stuff that goes inside the <body> tags.</p>
+<p>Markdown is best for blog posts, documentation articles, and other content that is mostly text. If you use Markdown you’ll probably also need to create some “templates” using a language like <a href="https://github.com/Shopify/liquid/wiki" target="_blank">Liquid</a> or <a href="http://handlebarsjs.com/" target="_blank">Handlebars</a>. These templates provide the structure around the content that the Markdown goes into.</p>
+<p>In summary, markup languages like those listed above provide the following advantages over HTML:</p>
+<ul>
+<li>Ability to insert references to other files</li>
+<li>Templates for common page types</li>
+<li>Simplified syntax for better readability</li>
+</ul>
+<h3 id="style-languages"id="style-languages"
+>Style Languages 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#style-languages&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>Similar to the HTML variations listed above, CSS has its own alternatives that extend the basic functionality of CSS for added power and flexibility. Fortunately, there are fewer options here.</p>
+<p>The two most used are <a href="http://sass-lang.com/" target="_blank"><strong>SASS</strong></a> and <a href="http://lesscss.org/" target="_blank"><strong>Less</strong></a>. They are quite similar. We’ll use SASS in the examples.</p>
+<p>The benefits and features are similar to markup languages. The ability to use variables is especially useful. You can define all your colors and fonts as variables, for example, so that updating them is a snap. A few other CSS-specific benefits are automatic <a href="http://webdesign.about.com/od/css/a/css-vendor-prefixes.htm" target="_blank">browser prefixing</a> and <a href="https://en.wikipedia.org/wiki/Minification_%28programming%29" target="_blank">minification</a> and <a href="https://en.wikipedia.org/wiki/Concatenation" target="_blank">concatenation</a> of files.</p>
+<p>Variables in SASS look like this:</p>
+<pre><code>$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+</code></pre>
+<p>Which becomes this:</p>
+<pre><code>body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+</code></pre>
+<p>Whenever you want to change the font and color you can just change the property of the variable. This can save a ton of time for large sites.</p>
+<p>There are many more things that SASS can do. <a href="https://teamtreehouse.com/library/sass-basics" target="_blank">Learn SASS on Treehouse</a>.</p>
+<h3 id="the-generator"id="the-generator"
+>The Generator 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#the-generator&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>Now to the thing that brings them all together. For this you’ll need to install a program on your computer to translate the markup and style code you write into HTML and CSS.</p>
+<p>Some popular generators are <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="http://gohugo.io/" target="_blank">Hugo</a>, <a href="https://harpjs.com/" target="_blank">Harp</a>, and <a href="http://hammerformac.com/index.html" target="_blank">Hammer</a>.</p>
+<p>There are a few considerations, such as:</p>
+<ul>
+<li>What markup and style languages do you want to write in (not all generators support all languages)</li>
+<li>The size of your site (affects how long compiling takes)</li>
+<li>The type of website you’re building (Jekyll and Hugo are optimized for blogs, for example)</li>
+<li>How comfortable you are with running terminal commands from a command line (many require them. Some, like <a href="http://hammerformac.com/index.html" target="_blank">Hammer</a>, don’t.)</li>
+</ul>
+<p>Static site generators typically <strong>run in the background while you write</strong> your markup and styles and compile to HTML and CSS when you save. You often don’t interact with them except to start and stop them.</p>
+<p><img src="/hugo-terminal.png" alt="Hugo running in the terminal"><br>
+(<em><a href="http://gohugo.io/" target="_blank">Hugo</a> running in the terminal</em>)</p>
+<p>Many also create a local web server (with a URL like “http://localhost:1234”) so that you can preview your site on your computer before uploading it.</p>
+<p>Some text editors even have plugins (like this <a href="https://atom.io/packages/sass-autocompile" target="_blank">SASS plugin for Atom</a>) that compile markup and style languages as you write, so you could even get away with not using a separate generator.</p>
+<p><em>(For more on using Jekyll to create a blog, see this <a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/" target="_blank">in-depth tutorial</a>.)</em></p>
+<h3 id="hosting"id="hosting"
+>Hosting 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#hosting&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h3><p>The final piece of the puzzle is finding a place to put your files on the web.</p>
+<p>Good news! Hosting your static site on the web is probably easier than hosting a dynamic site. There are no requirements for the server to be running certain software (like PHP) or even have a specific operating system. This often means that hosting is cheaper, or even free, because the resources needed are fewer. If you already have a host that you like, you don’t need to change anything.</p>
+<p>If you don’t already host your site somewhere, I suggest reading <a href="https://blog.teamtreehouse.com/using-github-pages-to-host-your-website" target="_blank">Using GitHub Pages To Host Your Website</a>. Putting your files on GitHub allows you to track all the changes you make to your site and doesn’t require FTP. <a href="https://aws.amazon.com/s3/" target="_blank">Amazon S3</a> is another popular option for static sites.</p>
+<p><em><strong>Also read:</strong></em> <a href="https://blog.teamtreehouse.com/static-pages-ruby-rails" target="_blank">Creating Static Pages in Ruby on Rails</a></p>
+<h2 id="static-vs-dynamic-which-is-better-for-you"id="static-vs-dynamic-which-is-better-for-you"
+>Static vs. Dynamic: Which is Better For You? 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/getting-started-with-static-sites/#static-vs-dynamic-which-is-better-for-you&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>As with most things, the answer is that <strong>it depends</strong>.</p>
+<p>Here are some pros and cons of static sites.</p>
+<p>Pros:</p>
+<ul>
+<li>Static websites generally load faster</li>
+<li>Newer markup languages can be easier to write once you take the time to learn them</li>
+<li>Fewer web server requirements and lower hosting costs</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>A bit of a learning curve even if you’re already familiar with HTML and CSS</li>
+<li>Transitioning from an existing site can be a challenge (<a href="http://konigi.com/blog/hello-hugo/" target="_blank">some tips here</a>)</li>
+<li>Unclear which new technologies will continue to be supported in the long term</li>
+</ul>
+<p>Regardless, these new technologies highlight a continuing trend toward lower barriers to entry for web developers. Languages like Jade and Markdown and technologies like GitHub facilitate more intuitive code writing and easier collaboration for the web.</p>
+<p>Static sites may not revolutionize the web, but they are clearly an evolution of it. Hopefully this post has helped you to understand their basic principles and context. Your comments are welcome!</p>
+<p>(<em>Many thanks to <a href="https://balsamiq.com/company/#peldi" target="_blank">Peldi</a> and <a href="https://balsamiq.com/company/#stefano" target="_blank">Stefano</a> for the technical review!</em>)</p>
+
+
+<hr class="mt-5">
 <div class="row mt-5">
   <div class="col-md-4">
             

@@ -78,7 +78,6 @@ table td{
   color: var(--brown);
 }
 
-
 .card {
   background: var(--white);
   border-radius: 7px;
@@ -283,6 +282,7 @@ a.navbar-brand b {
   font-weight: 400;
   font-family: var(--summary);
 }
+
 .heading {
     font-weight: 400;
     color: var(--navy);
@@ -368,6 +368,7 @@ a.navbar-brand b {
   font-family: var(--title);
   letter-spacing: .1rem;
   font-weight: 500;
+  font-size: 4.5rem;
   /* text-shadow: 2px 4px var(--cream); */
   color: var(--navy);
 }
