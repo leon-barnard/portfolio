@@ -6,7 +6,7 @@ Tags: ['web', 'favorite']
 Link: '//blog.teamtreehouse.com/hugo-templates-wordpress-designers'
 Date: 2017-09-29
 Source: 'Treehouse Blog'
-Img: '//blog.teamtreehouse.com/wp-content/uploads/2017/09/HUGO.jpg'
+Img: '/hugo-templates.png'
 ---
 
 Before we get started, let me clarify that I won’t be getting into how to migrate from WordPress to Hugo. There is an [export tool](https://gohugo.io/tools/migrations/#wordpress) available, and numerous blog posts describing how others did it.

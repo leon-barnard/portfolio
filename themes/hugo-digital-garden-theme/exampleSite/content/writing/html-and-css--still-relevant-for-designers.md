@@ -6,7 +6,7 @@ Tags: ['web', 'favorite']
 Link: '//blog.teamtreehouse.com/html-css-still-relevant-designers-2016'
 Date: 2016-02-16
 Source: 'Treehouse Blog'
-Img: '//blog.teamtreehouse.com/wp-content/uploads/2016/02/shutterstock_165381317.jpg'
+Img: '/htmlandcsshot.jpg'
 ---
 
 If you’re a designer trying to stay current you may be feeling some pressure to learn one of the many new web programming languages that are “hot” right now (React, [Angular](https://teamtreehouse.com/library/angular-basics), etc.). Not only because these languages are gaining in popularity, but because the bar for design jobs seems to be getting higher.

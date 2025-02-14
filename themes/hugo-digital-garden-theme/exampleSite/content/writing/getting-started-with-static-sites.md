@@ -6,7 +6,7 @@ Tags: ['web', 'favorite']
 Link: '//blog.teamtreehouse.com/getting-started-static-sites'
 Date: 2016-06-21
 Source: 'Treehouse Blog'
-Img: '//blog.teamtreehouse.com/wp-content/uploads/2016/06/147.jpeg'
+Img: '/static-diagram.png'
 ---
 
 The First Static Sites
