@@ -6,7 +6,7 @@ Tags: ['ux', 'marketing']
 Link: '//balsamiq.com/learn/articles/website-mistakes/'
 Date: 2022-08-29
 Source: 'Balsamiq Wireframing Academy'
-Img: '//thumbs.balsamiq.com/t_learn_articles_website-mistakes.png'
+Img: '/t_learn_articles_website-mistakes.png'
 ---
 
 When we partnered with usability and marketing expert [Paul Boag](https://boagworld.com/) for a [series of website UX reviews](https://balsamiq.com/learn/videos/website-ux-reviews/), we were impressed by the quantity and quality of useful information he was able to pack in 20-minute long videos. In this article, we collected 4 recurring problems Paul observed and easy ways to solve them.
@@ -22,7 +22,7 @@ You've worked with a marketing agency to come up with an ad campaign, which incl
 
 Your site looks more like a print ad than a website. Big photos and pithy phrases in large text, but not many clear invitations to action or navigational signposts.
 
-![](https://balsamiq.com/assets/learn/articles/website-mistakes/iceland-bank.png)
+![](/iceland-bank.png)
 
 In [Paul's review of a large bank in Iceland](https://balsamiq.com/learn/videos/website-ux-reviews/online-banking/), he struggles to figure out what they do and how to get around on the site.
 
@@ -34,7 +34,6 @@ At Balsamiq, we repeatedly **ask, "what's the problem we're trying to solve?"** 
 
 If they're already on your site, then brand awareness has succeeded to some extent. Usability awareness looks at whether your audience can do what they want to do on your site. That might include things like creating an account, getting more information, requesting a demo, or downloading your product. Whatever it is, make that action prominent and unambiguous. And don't forget a clear statement of what your product or service does at the top!
 
-* * *
 
 Don’t let your content grow like a jungle
 -----------------------------------------
@@ -47,7 +46,7 @@ You have a very old site that multiple teams post content to. You're afraid (or 
 
 Big menus, long lists of links, half-hearted attempts to highlight certain features with bright text that says "New!" or "Updated!" Outdated design trends (carousels, gradient menus, skeuomorphic graphics). Bonus points if the copyright date is more than 5 years old! 😉
 
-![](https://balsamiq.com/assets/learn/articles/website-mistakes/bgs-site.png)
+![](/bgs-site.png)
 
 The British Geological Survey site has a lot of cool stuff on it, if only viewers knew where to start or find what they were looking for. [Watch Paul’s review](https://balsamiq.com/learn/videos/website-ux-reviews/geoscience-education/) for more information.
 
@@ -59,7 +58,6 @@ The key paradigm shift that needs to happen is understanding that not all conten
 
 The best place to **start is by doing a [content audit](https://uxmastery.com/how-to-conduct-a-content-audit/)** to discover which pages are most visited and/or most popular (you can ask your support team or customers to help). Determine the top 15% of your content and focus on making it really easy to find. Use the home page to highlight that content and place smaller links further down the page to help viewers get to everything else. Ensure that the search works well so that users who know exactly what they're looking for can find it quickly.
 
-* * *
 
 Don’t assume your audience already knows what you do
 ----------------------------------------------------
@@ -72,7 +70,7 @@ Everyone inside the company knows exactly what the product does and what's great
 
 You don't mention basic information like what it does, why someone should buy it, and, most critically, why it's so good that they should abandon their existing solution (which they've already invested time, learning, and money in).
 
-![](https://balsamiq.com/assets/learn/articles/website-mistakes/balsamiq-home.png)
+![](/balsamiq-home.png)
 
 Paul [called out the Balsamiq home page](https://balsamiq.com/learn/videos/website-ux-reviews/balsamiq-website/) for not doing a good enough job of explaining what the tool does and who it's for.
 
@@ -80,7 +78,7 @@ Paul [called out the Balsamiq home page](https://balsamiq.com/learn/videos/websi
 
 When Paul got to the product page he praised it and said that _it_ should be the home page.
 
-![](https://balsamiq.com/assets/learn/articles/website-mistakes/balsamiq-product.png)
+![](/balsamiq-product.png)
 
 "Quick and Easy Wireframing Tool" is plain, but clear. Obvious always wins.
 
@@ -92,7 +90,6 @@ Counter their objections. Is it too expensive? Am I locked into a contract? Is i
 
 An easy win is using testimonials. Not only do they speak in your customer's words, but they also add legitimacy to your product by showing that real people like it.
 
-* * *
 
 Always have a clear call to action
 ----------------------------------
@@ -105,7 +102,7 @@ This often happens when a marketing team is not involved enough: Designers focus
 
 This mistake can take many forms. But a clear indicator is the lack of a prominent link or button in the top half of the home page.
 
-![](https://balsamiq.com/assets/learn/articles/website-mistakes/rsconnect.png)
+![](/rsconnect.png)
 
 _"I'm here, now what?"_
 

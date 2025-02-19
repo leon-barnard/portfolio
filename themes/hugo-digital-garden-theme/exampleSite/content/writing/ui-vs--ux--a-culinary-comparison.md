@@ -6,7 +6,7 @@ Tags: ['ux', 'wireframing']
 Link: '//medium.springboard.com/ui-vs-ux-a-culinary-comparison-776ef6695140'
 Date: 2018-10-04
 Source: 'Springboard'
-Img: '//miro.medium.com/v2/resize:fit:1200/1*MrDDnxL2BQDwZTAlTJ18Fg.png'
+Img: '/1*MrDDnxL2BQDwZTAlTJ18Fg.png'
 ---
 
 If the title of this article drew you in, there’s a good chance you’ve seen some kind of [Venn diagram](https://visual.ly/community/infographic/computers/disciplines-user-experience-design) with a dozen circles showing the overlap between user interface (UI) and user experience (UX). This article doesn’t dispute any of that. But it does explain UI vs. UX in an alternate way.
@@ -58,7 +58,7 @@ So, let’s begin by stepping into the shoes of a UI designer to see how they mi
 
 User interface controls are like ingredients in a recipe. Choosing the appropriate ones and using them in the right way lays a foundation for the rest of the interface.
 
-But before diving into the controls layer, let’s simplify the page above by viewing it as a [wireframe](https://support.balsamiq.com/resources/whatarewireframes/).
+But before diving into the controls layer, let’s simplify the page above by viewing it as a [wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/).
 
 ![](/ui-design-wirefame.png)
 
@@ -74,7 +74,7 @@ Each one of these controls was selected for a specific reason. **UI design is co
 
 Returning to our analogy, even with the right ingredients/controls, things can go wrong. They can work well together, or not. This is where the process of creating patterns comes in.
 
-Let’s further simplify this page by decreasing the [fidelity](http://konigi.com/uiref/wireframes/) of our wireframe to abstract away the individual controls, like this:
+Let’s further simplify this page by decreasing the [fidelity](https://konigi.com/design/wireframes/) of our wireframe to abstract away the individual controls, like this:
 
 ![](/ui-design-sketch.png)
 
@@ -90,9 +90,9 @@ Aesthetics matter. And they’re not as subjective as many people think. A meal 
 
 The most commonly understood definition of UI design is the visual design layer. But even this is more purposeful than most people understand. Visual design isn’t merely “making it look pretty.” A better way to think of it is as the application of established **visual design principles** , many of which are rooted in scientific psychological, neurological, or physiological understanding.
 
-Common examples of these design principles are [contrast](https://balsamiq.com/learn/courses/wireframing/principles/contrast/) , [hierarchy](https://balsamiq.com/learn/courses/wireframing/principles/hierarchy/) , [proximity](https://balsamiq.com/learn/courses/wireframing/principles/proximity/) , and [alignment](https://balsamiq.com/learn/courses/wireframing/principles/alignment/) .
+Common examples of these design principles are [contrast](https://balsamiq.com/learn/courses/wireframing/principles/contrast/), [hierarchy](https://balsamiq.com/learn/courses/wireframing/principles/hierarchy/), [proximity](https://balsamiq.com/learn/courses/wireframing/principles/proximity/), and [alignment](https://balsamiq.com/learn/courses/wireframing/principles/alignment/).
 
-One way that UI designers evaluate design principles is using the “ [squint test](https://www.numi.tech/post/the-squint-test-accessibility-test-for-every-interface),” which helps to further abstract the design into its visual principles. An alternative is to blur the screen.
+One way that UI designers evaluate design principles is using the “[squint test](https://www.numi.tech/post/the-squint-test-accessibility-test-for-every-interface),” which helps to further abstract the design into its visual principles. An alternative is to blur the screen.
 
 ![](/ui-design-final-blur.png)
 
@@ -140,7 +140,7 @@ Now look at this website:
 
 The design is very utilitarian. It’s not pretty. It sets the expectation that it exists to serve a simple purpose, but, like the catfish restaurant, you could be forgiven for expecting a poor result from it.
 
-And yet, for decades people have been pleasantly surprised ( _delighted_ , even) by the usefulness of [Craigslist](https://craigslist.org/) and its ability to connect them to just what they were looking for. That delight is, in part, due to its functional appearance.
+And yet, for decades people have been pleasantly surprised (_delighted_ , even) by the usefulness of [Craigslist](https://craigslist.org/) and its ability to connect them to just what they were looking for. That delight is, in part, due to its functional appearance.
 
 The lesson here is not that ugly design is good, but that people’s expectations are shaped by events that occur before they even touch a user interface. Part of UX is to design the _pre-use experience_ with this in mind.
 
@@ -180,7 +180,7 @@ And each of those factors has an impact as they occur over the duration of the e
 
 The same is true for software.
 
-A great [UX tool](https://www.springboard.com/blog/41-ux-tools-resources-that-make-designers-better/) that designers use for visualizing and reflecting this reality is a [journey map](https://www.nngroup.com/articles/customer-journey-mapping/):
+A great UX tool that designers use for visualizing and reflecting this reality is a [journey map](https://www.nngroup.com/articles/customer-journey-mapping/):
 
 _“In its most basic form, journey mapping starts by compiling a series of user goals and actions into a timeline skeleton. Next, the skeleton is fleshed out with user thoughts and emotions in order to create a narrative. Finally, that narrative is condensed into a visualization used to communicate insights that will inform design processes.”_
 
@@ -196,12 +196,12 @@ Finally, a UX designer has to think about whether the product addresses the user
 
 If I really want a hamburger and all you serve is chicken, I’m going to leave disappointed, regardless of how tasty the chicken is or how pleasant the ambiance is.
 
-In the end, UX is about user advocacy. A [UX designer](https://www.springboard.com/blog/ux-design-process/) should know what users want and don’t want.
+In the end, UX is about user advocacy. A UX designer should know what users want and don’t want.
 
 ## Hungry for More? 
 
 One of the great things about the field of user experience is that it _is_ so many things. It attracts people from all educational backgrounds and life experiences. You can be a terrible artist and still be a great UX designer. You can be an engineer or a writer or a psychologist and be a UX designer.
 
-Moreover, you don’t actually have to _be_ a UX designer to _do_ UX design. A good CEO is constantly thinking about the experience their customers have, from the first point of contact to the last. And at the highest level of [UX maturity](http://static.inuse.se/uploads/2014/04/UX-Maturity-Model.png) , UX is woven into the fabric of a company, such that essentially _everyone_ contributes to it.
+Moreover, you don’t actually have to _be_ a UX designer to _do_ UX design. A good CEO is constantly thinking about the experience their customers have, from the first point of contact to the last. And at the highest level of UX maturity, UX is woven into the fabric of a company, such that essentially _everyone_ contributes to it.
 
 But if that makes the question of the difference between UX and UI too complicated, just think of UI as the food and UX as the restaurant. It’s close enough.

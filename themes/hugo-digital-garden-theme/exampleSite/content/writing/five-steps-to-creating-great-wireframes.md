@@ -6,7 +6,7 @@ Tags: ['ux', 'wireframing']
 Link: '//balsamiq.com/learn/articles/five-steps-to-great-wireframes/'
 Date: 2020-03-18
 Source: 'Balsamiq Wireframing Academy'
-Img: '//thumbs.balsamiq.com/t_learn_articles_five-steps-to-great-wireframes.png'
+Img: '/t_learn_articles_five-steps-to-great-wireframes.png'
 ---
 
 Creating a [wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/) is easy. But [creating a great wireframe](https://balsamiq.com/learn/articles/ten-principles-effective-wireframes/), one that contributes to creating a great product, goes far beyond having an idea and drawing a picture of it.
@@ -42,7 +42,6 @@ When you are satisfied with your responses to these questions, you are ready for
 
 For real examples of this, see our article on [How to Start a Wireframe Project](https://balsamiq.com/learn/articles/how-to-start-a-wireframe/).
 
-* * *
 
 2\. Generate
 ------------
@@ -59,7 +58,6 @@ In this step, you want speed and quantity. If you are thinking too much, your an
 
 If you're having trouble with this step, read about [Wireframing Key Screens to Kickstart the Design Process](https://balsamiq.com/learn/articles/wireframing-key-screens/) and [Wireframing Tips for Getting "Unstuck"](https://balsamiq.com/learn/articles/wireframing-tips-for-getting-unstuck/).
 
-* * *
 
 3\. Iterate
 -----------
@@ -76,7 +74,6 @@ In this step you should start to see some solid user interface concepts come tog
 
 It's also good to **leave out finer details** like fonts, colors, and interaction details that will be distracting in the next step.
 
-* * *
 
 4\. Communicate
 ---------------
@@ -103,7 +100,6 @@ Ideally, you understand the technology well enough to know the main things that 
 
 For more on this topic, see [Tips for Presenting Your Wireframes](https://balsamiq.com/learn/articles/tips-presenting-wireframes/) and [What Are Wireframe Annotations and Why Use Them?](https://balsamiq.com/learn/articles/wireframe-annotations/)
 
-* * *
 
 5\. Validate
 ------------
@@ -128,7 +124,6 @@ Lastly, you may want to validate your design ideas by watching people use them i
 
 For more on this topic, see [The Two Phases of Wireframing: Ideation and Validation](https://balsamiq.com/learn/articles/wireframing-phases-ideation-validation/).
 
-* * *
 
 Summary
 -------

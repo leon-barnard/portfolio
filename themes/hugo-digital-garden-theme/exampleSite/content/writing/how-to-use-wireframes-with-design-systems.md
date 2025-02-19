@@ -6,7 +6,7 @@ Tags: ['ux', 'wireframing', 'favorite']
 Link: '//www.freecodecamp.org/news/how-to-use-wireframes-with-design-systems-46f3040829b6/'
 Date: 2018-12-17
 Source: 'freeCodeCamp Blog'
-Img: '//cdn-media-1.freecodecamp.org/images/1*J7kjxgTFCyTHqm28222z6g.png'
+Img: '/codecamp.png'
 ---
 
 In my 10+ years as a UX designer, one of the most frequent questions I’m asked about wireframes is how much visual detail to put into them.
@@ -37,7 +37,7 @@ Large companies have been using design systems for a long time. Until recently, 
 
 Here is an example, from the [IBM Carbon Design System](https://www.carbondesignsystem.com), showing appearance and code for buttons.
 
-![Image](https://cdn-media-1.freecodecamp.org/images/Dy85oSgyI4dmDfnQAxbaHCZgDf1mgSOSC4fu)
+![Image](/Dy85oSgyI4dmDfnQAxbaHCZgDf1mgSOSC4fu.png)
 
 The design system landscape changed after the [Bootstrap](https://getbootstrap.com/) framework was released in 2011. It is a free starter kit for web development that provides compliant, robust HTML templates and generally good-looking CSS styles that can be customized to your brand.
 
@@ -47,7 +47,7 @@ Bootstrap and other frameworks like it have been used as a foundation for design
 
 As you can see below, Bootstrap is very similar to corporate design systems like the one shown above.
 
-![Image](https://cdn-media-1.freecodecamp.org/images/iXL3oSzH7bcl5cyVfkIKyGwKG3duYSHVMEKn)
+![Image](/iXL3oSzH7bcl5cyVfkIKyGwKG3duYSHVMEKn.png)
 
 ## Design Systems + Wireframes in Practice
 
@@ -59,13 +59,13 @@ When you already know what a button (or tab, menu, etc.) is going to look like a
 
 Here’s how you can pair them together. You’ll find that they get along quite well together!
 
-If you already have a design system, great. If not, you can start with a customized download of [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/) or [Foundation](https://foundation.zurb.com/sites/download.html/). The next step is to create a mapping between it and the controls in your wireframing tool.
+If you already have a design system, great. If not, you can start with a customized download of [Bootstrap](https://getbootstrap.com/) or [Foundation](https://get.foundation). The next step is to create a mapping between it and the controls in your wireframing tool.
 
 A mapping basically means developing a shared agreement of “this means that”. You can do this by creating a document showing these mappings or by just having a meeting with the design and development teams around a screen to work it out.
 
 Here’s an example of how you might map some [Balsamiq](https://balsamiq.com) controls to Bootstrap components.
 
-![Image](https://cdn-media-1.freecodecamp.org/images/5-jQm4qhKNfVlQHNjMfmrj7lztq1qq5g4U5z)
+![Image](/5-jQm4qhKNfVlQHNjMfmrj7lztq1qq5g4U5z.png)
 
 > **_Note:_** _It’s ok to use some color, but it should only be used as much as necessary to indicate states and selections, for example._
 
@@ -73,7 +73,7 @@ Having this kind of mapping means that **developers no longer have to wonder whe
 
 You can also extend your design system by creating your own Balsamiq controls as [Symbols](https://docs.balsamiq.com/desktop/symbols/) to map to other components in your library, like this:
 
-![Image](https://cdn-media-1.freecodecamp.org/images/C1NnmuTJ85ig6LUsmdiItM2ujt7SrqnBgIqs)
+![Image](/C1NnmuTJ85ig6LUsmdiItM2ujt7SrqnBgIqs.png)
 
 This mapping can evolve and grow over time as needs and design language change in your organization.
 
@@ -81,9 +81,9 @@ Here’s a simple example showing what a completed wireframe could look like whe
 
 > _Note: Blue in the wireframe doesn’t have to mean blue in the finished product._
 
-![Image](https://cdn-media-1.freecodecamp.org/images/c9J061zS0hvTuedNOF6BW1I4BzgrHEAjWVYl) _Created in Balsamiq_
+![Image](/c9J061zS0hvTuedNOF6BW1I4BzgrHEAjWVYl.png) _Created in Balsamiq_
 
-![Image](https://cdn-media-1.freecodecamp.org/images/NXKeYs7lM8jkV2Arf5x6ewTbt4y2rVazGyMn) _Created with code_
+![Image](/NXKeYs7lM8jkV2Arf5x6ewTbt4y2rVazGyMn.png) _Created with code_
 
 Wireframe to working code with no additional design artifacts in between!
 

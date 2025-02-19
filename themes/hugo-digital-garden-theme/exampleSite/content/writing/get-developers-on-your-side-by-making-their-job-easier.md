@@ -6,7 +6,7 @@ Tags: ['ux', 'career']
 Link: '//www.linkedin.com/pulse/get-developers-your-side-making-job-easier-leon-barnard/'
 Date: 2021-03-29
 Source: 'LinkedIn'
-Img: '//media.licdn.com/dms/image/v2/D5612AQFD0SR3Isxy1A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714320973596?e=2147483647&v=beta&t=B1YcLDcQ62n4TTOKEGczgtVV5AKNXBrilLPJ6_6mTao'
+Img: '/1714320973596.png'
 ---
 
 New UX designers are often surprised to find that some software developers are wary of working with them. This can be caused by prior bad experiences with unrealistic designs that didn’t consider development effort or technical constraints.
