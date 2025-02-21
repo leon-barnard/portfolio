@@ -6,7 +6,7 @@ Tags: ['ux', 'wireframing', 'favorite']
 Link: '//uxmastery.com/wireframing-for-beginners/'
 Date: 2016-10-18
 Source: 'UX Mastery'
-Img: '//uxmastery.com/wp-content/uploads/2016/10/wireframes-e1476594213245.png'
+Img: '/wireframes-e1476594213245.png'
 ---
 
 Wireframing is an essential skill for UX Designers and other experience design participants. Yes, **wireframing is a skill**, not just a technique. It can be done well or poorly and the result can have a huge impact on the outcome of the final product.
@@ -24,7 +24,7 @@ Michael Angeles, on his design blog “Konigi,” has one of the [best descripti
 > 
 > “Wireframes are usually rendered in software, but are also created as works on paper or on other ephemeral materials, e.g. white boards. Wireframes are meant to be used as _rough representations of interface ideas that can be quickly discarded and iterated upon_ until design solutions are selected.”
 
-![An example of a wireframe.](https://uxmastery.com/wp-content/uploads/2016/10/image01.png)
+![An example of a wireframe.](/image01.png)
 
 ### Wireframing is not the same as prototyping
 
@@ -32,7 +32,7 @@ Wireframing as a practice has **more in common with sketching** than prototyping
 
 Unlike wireframes, **prototypes often look and feel like the final product**, even when they are not fully functional or built with code that will eventually be used in the product. (“Click-through” wireframes can be used as early-stage prototypes, but that is not their main purpose.)
 
-The article [“Why wireframes are essential for web design”](https://getflywheel.com/layout/wireframes-essential-for-web-design/) likens wireframing to **writing an outline** in a document. The author reasons: “You’re starting to make design decisions and get a feel for how this site will come together before committing serious time to building anything.”
+The article [“Why wireframes are essential for web design”](https://wpengine.com/resources/wireframes-essential-for-web-design/) likens wireframing to **writing an outline** in a document. The author reasons: “You’re starting to make design decisions and get a feel for how this site will come together before committing serious time to building anything.”
 
 These concepts are important to keep in mind while creating wireframes.
 
@@ -53,35 +53,34 @@ These problems can be divided up into two distinct phases: **the ideation phase*
 
 The first problem, trying to figure out how your product can help customers accomplish their goals, is addressed in the creative [**ideation phase**](https://www.interaction-design.org/literature/topics/ideation) of the wireframing process. This is where you generate **as many ideas as possible** in order to iterate toward better and better solutions.
 
-The ideation phase is one of the few places where [**quantity matters as much (or more than) quality**](https://www.interaction-design.org/literature/topics/ideation). The ability to generate multiple ideas and variations on a single idea allows you to see the faults and highlights of each. The more designs you put down on the page, the more individual ideas you have to choose from. The root of “creative,” after all, is “create”; that’s the strategy here.
+The ideation phase is one of the few places where **quantity matters as much (or more than) quality**. The ability to generate multiple ideas and variations on a single idea allows you to see the faults and highlights of each. The more designs you put down on the page, the more individual ideas you have to choose from. The root of “creative,” after all, is “create”; that’s the strategy here.
 
 A helpful way to think about this phase is to flip convention around. Focusing on creating only good ideas may restrict you; instead, _try to create as many bad ideas as possible_.  This will **remove the creative block** and free you up to just produce. You won’t get to “aha!” without going through “oh, no!”
 
 #### An ideation phase walkthrough
 
-A good way to demonstrate what this [phase looks like](https://www.interaction-design.org/literature/topics/ideation) is to show an example. Here is a series of wireframes that I created in about 25 minutes using [Balsamiq Wireframes](https://balsamiq.com/) (sped up 4x). I gave myself the challenge to design a to-do list app for a mobile device (quite original, I know).
-
-https://www.youtube.com/watch?v=TB8N9MX8iVs
+A good way to demonstrate what this phase looks like is to show an example. Here is a series of wireframes that I created in about 25 minutes using [Balsamiq Wireframes](https://balsamiq.com/). I gave myself the challenge to design a to-do list app for a mobile device (quite original, I know).
 
 _Caveat: I did no preparation beforehand (not recommended) and don’t consider it “finished” even by ideation phase standards, but it should give an idea of the process I follow._
 
-Here are a few screenshots from the video:
+The initial design:
 
-![The initial design.](https://uxmastery.com/wp-content/uploads/2016/10/image05.png)
+![The initial design.](/image04.png)
 
-The initial design.
 
-![The second design, showing categories of to-do items and a Material Design-like Add button.](https://uxmastery.com/wp-content/uploads/2016/10/image04.png)
+The second design, showing categories of to-do items and a [Material Design](https://material.io/)\-like Add button:
 
-The second design, showing categories of to-do items and a [Material Design](https://material.google.com/)\-like Add button.
+![The second design, showing categories of to-do items and a Material Design-like Add button.](/image02.png)
 
-![A design I abandoned to default all items to "unassigned" and let users drag them into categories later.](https://uxmastery.com/wp-content/uploads/2016/10/image03.png)
 
-A design I abandoned to default all items to “unassigned” and let users drag them into categories later.
+A design I abandoned to default all items to “unassigned” and let users drag them into categories later:
 
-![image02](https://uxmastery.com/wp-content/uploads/2016/10/image02.png)
+![A design I abandoned to default all items to "unassigned" and let users drag them into categories later.](/image03.png)
+
+The last design, taking parts from all the previous ideas:
+
+![image02](/image05.png)
   
-The last design, taking parts from all the previous ideas.
 
 #### Tips for the ideation phase
 
@@ -106,7 +105,7 @@ Assume that the people who you are showing your wireframes to have knowledge tha
 
 You don’t need to show all your ideas during the validation phase. Here’s where you can narrow down and focus on the better ones. That said, it’s perfectly acceptable to **show variations on an idea** or even different directions completely. This reinforces the point that wireframes are a **conversation starter**, not a finished product. You may want to keep a few alternate ideas in your back pocket anyway in case your preferred ones don’t go over well.
 
-![Image credit: "Storytelling for User Experience", ©Rosenfeld Media](https://uxmastery.com/wp-content/uploads/2016/10/image00.jpg)
+![Image credit: "Storytelling for User Experience", ©Rosenfeld Media](/image00.jpg)
 
 Image credit: [“Storytelling for User Experience”](http://rosenfeldmedia.com/books/storytelling-for-user-experience/), ©Rosenfeld Media
 
@@ -120,7 +119,7 @@ In this phase, it’s important to think of your wireframes as **communication a
 4.  **Don’t let the wireframe do all the talking.** Supplement missing details with your own words rather than trying to let the wireframe tell the whole story.
 5.  **Add annotations as needed** for later viewing and sharing (which can be [turned off](https://docs.balsamiq.com/desktop/markup/#toggling-markup-on-and-off) for presenting in some programs).
 
-You can find more suggestions in [“Tips for Presenting Your Wireframes.”](https://blogs.balsamiq.com/ux/2015/11/05/wireframe-presentation-tips/)
+You can find more suggestions in [“Tips for Presenting Your Wireframes.”](https://balsamiq.com/learn/articles/tips-presenting-wireframes/)
 
 Learning from the process
 -------------------------
@@ -132,3 +131,4 @@ The first is **practice**. The more you do it, the better you’ll get. Practice
 The second and most important way to improve in both phases is to **consciously integrate comments** from the validation phase and feed it back into your ideation phase next time. You’ll learn a lot about how to make your ideas clearer by showing them to others and getting their feedback, and you should put it to good use.
 
 As you practice, try to apply the same loop of **iterating and improving** your design ideas to your wireframing process as a whole. Just as your design will improve by going through these phases, your wireframing skills will too! Keep the circle of feedback and refinement going.
+
