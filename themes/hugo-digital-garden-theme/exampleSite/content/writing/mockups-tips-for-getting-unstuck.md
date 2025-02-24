@@ -1,6 +1,6 @@
 ---
 Title: 'Wireframing Tips for Getting Unstuck'
-Draft: false
+Draft: true
 Summary: "Recognizing being stuck is the first step to getting unstuck. Here are 2 easy techniques with 11 practical strategies to help you break free from designer's block."
 Tags: ['ux']
 Link: '//balsamiq.com/learn/articles/wireframing-tips-for-getting-unstuck/'

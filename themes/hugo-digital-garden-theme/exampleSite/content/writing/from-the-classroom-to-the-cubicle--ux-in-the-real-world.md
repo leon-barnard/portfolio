@@ -6,7 +6,7 @@ Tags: ['ux', 'favorite', 'career']
 Link: '//uxmastery.com/ux-real-world/'
 Date: 2016-07-12
 Source: 'UX Mastery'
-Img: '//uxmastery.com/wp-content/uploads/2016/07/UX2_Workshop-endframe1.jpg'
+Img: '/UX2_Workshop-endframe1.jpg'
 ---
 
 Here you are, fresh from a UX education, armed with a full complement of design tools and techniques. These will undoubtedly help you in your career. But, when you arrive at your first UX job you’ll find conditions a little different than they were in the classroom. You’ll soon see that the skills that got you ahead in school aren’t the same as the skills you’ll need at the office.
@@ -14,17 +14,17 @@ Here you are, fresh from a UX education, armed with a full complement of design 
 The classroom vs. the real world
 ------------------------------------
 
-![ux-in-the-real-world](https://uxmastery.com/wp-content/uploads/2016/07/ux-in-the-real-world.jpg)
+![ux-in-the-real-world](/ux-in-the-real-world.jpg)
 
 ### Processes in the real world
 
 In the classroom the _process_ is dictated, but in the real world it’s the _result_ that’s emphasized, with less regard for how you get there.
 
-For example, in school you might be assigned to perform a [heuristic evaluation](http://konigi.com/wiki/heuristic-evaluation/) or design a [low-fidelity prototype](http://www.usabilityfirst.com/glossary/low-fidelity-prototype/). But on the job you’ll be tasked with answering questions that can be approached a number of ways. It’s up to you to decide how to proceed.
+For example, in school you might be assigned to perform a [heuristic evaluation](https://konigi.com/design/heuristic-evaluation/) or design a [low-fidelity prototype](http://www.usabilityfirst.com/glossary/low-fidelity-prototype/). But on the job you’ll be tasked with answering questions that can be approached a number of ways. It’s up to you to decide how to proceed.
 
 ### Deliverables in the real world
 
-![Mike_Rundle_tweet2](https://uxmastery.com/wp-content/uploads/2016/07/Mike_Rundle_tweet2-1024x452.jpg)
+![Mike_Rundle_tweet2](/Mike_Rundle_tweet2.jpg)
 
 [_Source_](https://twitter.com/flyosity/status/747425222668722180)
 
@@ -32,7 +32,7 @@ In school, your deliverable is what you design. In the real world, it’s what s
 
 ### End goals in the real world
 
-As a UX design student your goal is to design the best possible experience. In the real world, your ultimate goal is to help the company make money. Sometimes that comes from a great user experience, but other times it’s just doing [whatever it takes to land a high-paying customer](http://m.signalvnoise.com/bigger-prices-bigger-problems-72820249456f#.lu4uv6xj9).
+As a UX design student your goal is to design the best possible experience. In the real world, your ultimate goal is to help the company make money. Sometimes that comes from a great user experience, but other times it’s just doing [whatever it takes to land a high-paying customer](https://medium.com/signal-v-noise/bigger-prices-bigger-problems-72820249456f).
 
 ### Assignments in the real world
 
@@ -46,7 +46,7 @@ Very rarely will you be asked to redesign an existing product solely to make it 
 
 Before diving into how to succeed in the real world of UX, I’d like to share a story about real world UX challenges.
 
-Take a look at this email sent from a [UX designer at American Airlines, in response to a designer who criticized the AA.com website](http://www.fastcompany.com/1288618/american-airlines-web-site-product-self-defeating-design-process) and offered up a redesign (emphasis mine).
+Take a look at this email sent from a [UX designer at American Airlines, in response to a designer who criticized the AA.com website](https://www.fastcompany.com/90185767/american-airlines-web-site-the-product-of-a-self-defeating-design-process) and offered up a redesign (emphasis mine).
 
 _The group running AA.com consists of_ **_at least 200 people_** _spread out amongst many different groups, including, for example, QA, product planning, business analysis, code development, site operations, project planning, and user experience. We have a lot of people touching the site, and a lot more with their own vested interests in how it presents its content and functionality… AA.com is a_ **_huge corporate undertaking_** _with a lot of tentacles that reach into a lot of interests…_
 
@@ -62,11 +62,11 @@ The takeaway from this story is that **Real World UX Success = Design + Delivery
 
 My own experience is similar. When I began my UX career I expected to spend my time roughly like this:
 
-![expectation](https://uxmastery.com/wp-content/uploads/2016/07/expectation.png)
+![expectation](/expectation.png)
 
 But what I learned is that, to be effective, it ends up looking more like this:
 
-![reality](https://uxmastery.com/wp-content/uploads/2016/07/reality.png)
+![reality](/reality.png)
 
 Read on for some strategies I learned that can help you avoid some rookie mistakes and act like a pro.
 
@@ -94,7 +94,7 @@ A good way to get started is to focus on **small wins**. These serve two purpose
 
 Consistency is good example. Making things consistent across the UI is an easy case to make _and_ it often simplifies the code. It’s not sexy, but it’s good for the product and the customer. And it’s hard to argue against.
 
-![pie-in-the-sky](https://uxmastery.com/wp-content/uploads/2016/07/pie-in-the-sky.png)
+![pie-in-the-sky](/pie-in-the-sky.png)
 
 “Pie in the sky” designs won’t get you very far in the real world.
 
@@ -112,7 +112,7 @@ _“The graph of impact tends to correlate with how many people you need to work
 
 – _[Julie Zhou](https://medium.com/the-year-of-the-looking-glass/8-unintuitive-lessons-on-being-a-designer-ca7e97a572ee#.ipngwlkoo)_
 
-Finally, know that if you’re a pain in the ass to work with you won’t get a lot of traction in your job. A good designer is able to [work with others and show them that they can make their jobs easier](https://blogs.balsamiq.com/ux/2013/06/03/tales-from-a-ux-guerilla/).
+Finally, know that if you’re a pain in the ass to work with you won’t get a lot of traction in your job. A good designer is able to work with others and show them that they can make their jobs easier.
 
 In addition to empathy for your users, you should also learn to understand the goals and points of view of your colleagues. You are all on the same team. Without a sales team to sell the product or a PM to get it out the door, you don’t have a job. Learn what matters to them and find common ground. Share the same end goals.
 

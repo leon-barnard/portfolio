@@ -6,7 +6,7 @@ Tags: ['ux', 'favorite', 'career']
 Link: '//blog.teamtreehouse.com/soft-skills-ux-designers'
 Date: 2015-12-30
 Source: 'Treehouse Blog'
-Img: '//blog.teamtreehouse.com/wp-content/uploads/2015/12/shutterstock_307029620.jpg'
+Img: '/shutterstock_307029620.jpg'
 ---
 
 **Question:** What is the most important skill needed for a UX Designer to be effective today?
@@ -45,7 +45,7 @@ The following practicable skills can be invaluable in getting your ideas and har
 
 Empathy is a word that UX designers love to own. We “feel” for the user, we know their pain, we walk in their shoes, yet we know that we are not the user. We use this as leverage in many of our design arguments. But **can’t we also feel for the members of our team?** If the business can’t sell our product, we’re out of a job. And if the developers can’t build it, ditto.
 
-UX Designer [Caroline Sober-James](https://twitter.com/wildwend) advocates for a “reaching across the aisle” approach with developers in [“How to Write UX Specs That Make Developers Swoon”](http://www.slideshare.net/csober/how-to-write-ux-specs-that-make-developers-swoon) (_you can watch a video [here](https://www.youtube.com/watch?v=eyL-egXbZ58&list=PLJ-cEwTSAyZ66hFAmoCAUJRbEJAe99NAi)_).
+UX Designer Caroline Sober-James advocates for a “reaching across the aisle” approach with developers in [“How to Write UX Specs That Make Developers Swoon”](http://www.slideshare.net/csober/how-to-write-ux-specs-that-make-developers-swoon) (_you can watch a video [here](https://www.youtube.com/watch?v=eyL-egXbZ58&list=PLJ-cEwTSAyZ66hFAmoCAUJRbEJAe99NAi)_).
 
 It starts by acknowledging that designers and developers have a common goal: to deliver a great product to the customer. But things go awry as soon as someone on one or both sides mutters “they just don’t get it.” **Why, as designers, can’t we “get it?”**
 
@@ -55,7 +55,7 @@ It begins with understanding the role and tasks of those we rely on and by follo
 2.  Swallow your pride
 3.  Focus on the big picture
 
-A fantastic way to bring someone over to your side is to ask for help. This creates a shared investment in the outcome. Another trick is to [pitch yourself as someone who can make their job easier](http://blogs.balsamiq.com/ux/2013/06/03/tales-from-a-ux-guerilla/), relieving them of mundane decisions like what kind of UI control to use or what labels should say.
+A fantastic way to bring someone over to your side is to ask for help. This creates a shared investment in the outcome. Another trick is to [pitch yourself as someone who can make their job easier](https://www.linkedin.com/pulse/get-developers-your-side-making-job-easier-leon-barnard/), relieving them of mundane decisions like what kind of UI control to use or what labels should say.
 
 By trying to understand better what the other members of the team do, you can better position yourself as someone who shares their interests and goals, for the sake of a better overall product.
 
@@ -64,7 +64,7 @@ By trying to understand better what the other members of the team do, you can be
 
 As the advocate for the user, your role is to clear through the clutter of edge-case feature requests and technological playgrounds to provide a clean picture of what the user really wants.
 
-**“Choose obvious over clever every time,”** writes Cap Watkins in [“The Boring Designer.”](http://blog.capwatkins.com/the-boring-designer) As a [design team leader](http://blog.capwatkins.com/), Cap values designers who don’t feel the need to put their personal mark or flourish on their product, who recognize that time and budget constraints may limit what they can deliver, and who prioritize accordingly.
+**“Choose obvious over clever every time,”** writes Cap Watkins in [“The Boring Designer.”](https://capwatkins.com/blog/the-boring-designer) As a design team leader, Cap values designers who don’t feel the need to put their personal mark or flourish on their product, who recognize that time and budget constraints may limit what they can deliver, and who prioritize accordingly.
 
 In my own experience, “Wouldn’t it be cool if…?” conversations are red flags that indicate that the upcoming discussion could lead down the wrong path (not always, of course). **Just because _you’re_ excited about something doesn’t mean it’s what the user wants or needs.** For example, don’t be afraid to endorse an existing, “boring” framework like [Bootstrap](https://getbootstrap.com/) if it helps with consistency and gets the product out the door faster. Users want real solutions ahead of “delight.”
 
