@@ -105,8 +105,9 @@ I have found the first two in particular - "facilitates a primary use case" and 
 
 You first need to **get in the habit of justifying design decisions to yourself**. Returning to the primary use cases _(you do have these, right?)_ and following established [UI patterns](https://balsamiq.com/learn/courses/intro-to-ui-design/ui-design-patterns/) are excellent guiding principles. If you've followed these during the design phase, you should definitely mention them during the presentation. Depending on the project, product, or audience, the other explanations may be even more effective.
 
-This [short video from Nielsen Norman Group](https://www.nngroup.com/videos/present-design-ideas/) reinforces these ideas.
+This [short video from Nielsen Norman Group](https://www.nngroup.com/videos/present-design-ideas/) reinforces these ideas:
 
+{{< youtube 2brmo3wgG48 >}}
 
 ## Summary
 

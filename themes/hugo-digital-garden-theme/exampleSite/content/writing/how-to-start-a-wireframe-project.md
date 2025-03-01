@@ -6,7 +6,7 @@ Tags: ['ux', 'favorite', 'wireframing']
 Date: 2019-07-19
 Link: '//balsamiq.com/learn/articles/how-to-start-a-wireframe/'
 Source: 'Balsamiq Wireframing Academy'
-Img: '/t_learn_articles_how-to-start-a-wireframe.png'
+Img: '/t_learn_articles_how-to-start-a-wireframe-new.png'
 ---
 
 

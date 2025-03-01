@@ -6,7 +6,7 @@ Tags: ['wireframing']
 Link: '//blog.teamtreehouse.com/3-steps-better-ui-wireframes'
 Date: 2015-09-24
 Source: 'Treehouse Blog'
-Img: '//blog.teamtreehouse.com/wp-content/uploads/2015/09/shutterstock_173967290.jpg'
+Img: '/shutterstock_173967290.jpg'
 ---
 
 Creating sketches of a user interface, called [wireframes](https://balsamiq.com/learn/articles/what-are-wireframes/), is often the first step in the design phase of a software or web project. Wireframing your software or website project may seem simple at first because of how easy they are to create, but it’s actually a more nuanced (and important) step than it appears. If you’re new to wireframing, or are looking to level up your wireframe game, these steps should help you get the most out of the wireframing stage.

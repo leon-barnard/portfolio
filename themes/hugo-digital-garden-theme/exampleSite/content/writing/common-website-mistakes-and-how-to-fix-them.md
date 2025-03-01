@@ -6,7 +6,7 @@ Tags: ['ux', 'marketing']
 Link: '//balsamiq.com/learn/articles/website-mistakes/'
 Date: 2022-08-29
 Source: 'Balsamiq Wireframing Academy'
-Img: '/t_learn_articles_website-mistakes.png'
+Img: '/t_learn_articles_website-mistakes-new.png'
 ---
 
 When we partnered with usability and marketing expert [Paul Boag](https://boagworld.com/) for a [series of website UX reviews](https://balsamiq.com/learn/videos/website-ux-reviews/), we were impressed by the quantity and quality of useful information he was able to pack in 20-minute long videos. In this article, we collected 4 recurring problems Paul observed and easy ways to solve them.

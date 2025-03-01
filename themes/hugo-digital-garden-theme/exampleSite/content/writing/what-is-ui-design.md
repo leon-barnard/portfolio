@@ -6,7 +6,7 @@ Tags: ['ux']
 Link: '//balsamiq.com/learn/courses/intro-to-ui-design/what-is-ui-design/'
 Date: 2018-09-26
 Source: 'Balsamiq Wireframing Academy'
-Img: '/t_learn_courses_intro-to-ui-design_what-is-ui-design.png'
+Img: '/t_learn_courses_intro-to-ui-design_what-is-ui-design-new.png'
 ---
 
 User Interface Design is the craft and process of designing what a user interacts with when communicating with software. In this article we’ll look at common aspects of this process, including how to apply design principles and interface conventions.

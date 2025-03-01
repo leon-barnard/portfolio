@@ -6,7 +6,7 @@ Tags: ['ux', 'wireframing']
 Link: '//balsamiq.com/learn/articles/five-steps-to-great-wireframes/'
 Date: 2020-03-18
 Source: 'Balsamiq Wireframing Academy'
-Img: '/t_learn_articles_five-steps-to-great-wireframes.png'
+Img: '/t_learn_articles_five-steps-to-great-wireframes-new.png'
 ---
 
 Creating a [wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/) is easy. But [creating a great wireframe](https://balsamiq.com/learn/articles/ten-principles-effective-wireframes/), one that contributes to creating a great product, goes far beyond having an idea and drawing a picture of it.

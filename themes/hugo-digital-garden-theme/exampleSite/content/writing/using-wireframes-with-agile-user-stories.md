@@ -6,7 +6,7 @@ Tags: ['ux', 'wireframing', 'favorite']
 Link: '//balsamiq.com/learn/articles/wireframing-agile-user-stories/'
 Date: 2013-02-06
 Source: 'Balsamiq Wireframing Academy'
-Img: '/t_learn_articles_wireframing-agile-user-stories.png'
+Img: '/t_learn_articles_wireframing-agile-user-stories-new.png'
 ---
 Agile User Stories are great because they focus on user needs and are short and decipherable, unlike functional specification documents. But they often lack details that front-end developers need to design the user interface. In this article we'll learn how wireframes and User Stories can work together to provide adequate information without unnecessary effort.
 
