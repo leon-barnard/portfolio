@@ -48,7 +48,7 @@ A note about the ordering of the Stories. The important thing when breaking up a
 
 Writing the most important Stories first helps **ensure that the most important features get delivered**. With fixed release dates and shifting agendas, never assume that everything will get shipped. Start with the important stuff and you'll at least be maximizing the value of your time.
 
-When you insert the wireframe into the User Story (as an [embedded image, attachment, etc.](https://balsamiq.com/wireframes/cloud/docs/exporting/#exporting-to-an-image)) you don't have to remove the other pieces of it. One of the things you can do is show the full wireframe that you created, but **obscure the parts that don't apply** to the specific Story. That way, it's clear what the objective of the Story is, but you're also keeping in focus the end goal.
+When you insert the wireframe into the User Story you don't have to remove the other pieces of it. One of the things you can do is show the full wireframe that you created, but **obscure the parts that don't apply** to the specific Story. That way, it's clear what the objective of the Story is, but you're also keeping in focus the end goal.
 
 You might do something like this, for example:
 

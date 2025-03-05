@@ -6,7 +6,7 @@ Tags: ['wireframing']
 Link: '//balsamiq.com/learn/articles/tips-presenting-wireframes/'
 Date: 2015-11-05
 Source: 'Balsamiq Wireframing Academy'
-Img: '//thumbs.balsamiq.com/t_learn_articles_tips-presenting-wireframes.png'
+Img: '/t_learn_articles_tips-presenting-wireframes-new.png'
 ---
 
 Now that your [wireframes](https://balsamiq.com/learn/articles/what-are-wireframes/) are done, what do you do with them? In this article I'll describe some techniques for being prepared when the time comes to present your wireframes to clients and stakeholders.
