@@ -1,12 +1,12 @@
 ---
 Title: 'The Antidote To UX Burnout is Designing For Users Who Need it Most'
-Draft: true
-Summary: 'User experience design remains a highly-coveted and relatively satisfying profession. But as a long-time practitioner, I’ve started to see, for the first time, a noticeable trend in feelings of burnout and frustration in our field.'
+Draft: false
+Summary: 'User experience design remains a highly-coveted and relatively satisfying profession. But I’ve started to see a noticeable trend in feelings of burnout and frustration in our field.' 
 Tags: ['ux', 'career']
-Link: '//medium.com/demagsign/the-antidote-to-ux-burnout-is-designing-for-users-who-need-it-most-ae810866a307'
+Link: '//magazine.designmatters.io/the-antidote-to-ux-burnout-is-designing-for-users-who-need-it-most/'
 Date: 2022-04-20
 Source: 'DeMagSign by Design Matters'
-Img: '//miro.medium.com/v2/resize:fit:1400/format:webp/1*dody-6zedm3EJ5h3AgddPA.jpeg'
+Img: '/1*dody-6zedm3EJ5h3AgddPA.jpg'
 ---
 
 Many of us got into UX because we wanted to make tools and products easier for everyone to use. Well-executed user experience design can make technology safer, more affordable, and more accessible. The growth of UX came from a combination of its lofty promise and the competitive advantage it brought to companies who invested in it and saw their profits rise.
@@ -27,17 +27,17 @@ We have even seen a new job title emerge recently: _Growth Designer_. The role o
 
 You could argue that this change is inevitable and proves the effectiveness of UX. In [The Slow But Inevitable Demise of UX Design](https://andybudd.medium.com/the-slow-but-inevitable-demise-of-ux-design-andy-budd-a0f67de103b0), Andy Budd explains the transition in UX work over time:
 
-_The nature of the work changed. While a lot of the early projects, especially amongst agencies were zero-to-one projects where you were building something new for the first time, the majority of designers found themselves improving existing products. As such the focus for many designers switching from conceiving whole systems to rolling out new features or improving existing user flows_
+> The nature of the work changed. While a lot of the early projects, especially amongst agencies were zero-to-one projects where you were building something new for the first time, the majority of designers found themselves improving existing products. As such the focus for many designers switching from conceiving whole systems to rolling out new features or improving existing user flows
 
 He then explains the state of design today:
 
-_From a design perspective we’re also surrounded by enough scaffolding-in the form of design systems, user research and competitor products-to mean that most teams don’t need the rigor that came with the historic practice of UX design._
+> From a design perspective we’re also surrounded by enough scaffolding-in the form of design systems, user research and competitor products-to mean that most teams don’t need the rigor that came with the historic practice of UX design.
 
 Mark Hurst, in [Why I’m losing faith in UX](https://creativegood.com/blog/21/losing-faith-in-ux.html), has a more cynical take. He references the notoriously difficult Amazon Prime cancellation process, which, rather than facilitating a good experience, interferes with it, and goes on to say:
 
-_Amazon has embraced a new kind of UX… What should be a single page with a “Cancel my subscription” link is now a six-page process filled with…deceptive design tricks known to mislead users._
-
-_This isn’t an accident… There’s a highly-trained, highly-paid UX organization at Amazon that is actively working to deceive, exploit, and harm their users. UX has completely flipped now, from advocating for the user to actively working against users’ interests. To boost profits, UX has turned into user exploitation._
+> Amazon has embraced a new kind of UX… What should be a single page with a “Cancel my subscription” link is now a six-page process filled with…deceptive design tricks known to mislead users.
+>
+> This isn’t an accident… There’s a highly-trained, highly-paid UX organization at Amazon that is actively working to deceive, exploit, and harm their users. UX has completely flipped now, from advocating for the user to actively working against users’ interests. To boost profits, UX has turned into user exploitation.
 
 ## Responsibility starts with you
 
