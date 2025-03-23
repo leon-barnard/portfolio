@@ -23,10 +23,17 @@
       <description>Learn how to improve your website’s user experience! For each mistake you’ll learn what usually happens and why, what it looks like, and what to do about it.</description>
     </item>
     <item>
+      <title>The Antidote To UX Burnout is Designing For Users Who Need it Most</title>
+      <link>//localhost:1313/writing/antidote-ux-burnout/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/antidote-ux-burnout/</guid>
+      <description>User experience design remains a highly-coveted and relatively satisfying profession. But I’ve started to see a noticeable trend in feelings of burnout and frustration in our field.</description>
+    </item>
+    <item>
       <title>Get Developers on Your Side by Making Their Job Easier</title>
-      <link>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</link>
+      <link>//localhost:1313/writing/get-developers-on-your-side/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</guid>
+      <guid>//localhost:1313/writing/get-developers-on-your-side/</guid>
       <description>If you’ve never worked in the software industry before, learning the culture can be a huge part of your first year on the job.</description>
     </item>
     <item>
@@ -52,9 +59,9 @@
     </item>
     <item>
       <title>UI vs. UX: A Culinary Comparison</title>
-      <link>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</link>
+      <link>//localhost:1313/writing/ui-vs-ux/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</guid>
+      <guid>//localhost:1313/writing/ui-vs-ux/</guid>
       <description>This article will combine storytelling with analogy to approach the subject of explaining UX differently.</description>
     </item>
     <item>
@@ -73,9 +80,9 @@
     </item>
     <item>
       <title>From the Classroom to the Cubicle: UX in the Real World</title>
-      <link>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</link>
+      <link>//localhost:1313/writing/ux-in-the-real-world/</link>
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</guid>
+      <guid>//localhost:1313/writing/ux-in-the-real-world/</guid>
       <description>When you arrive at your first UX job you&#39;ll find conditions a little different than they were in the classroom.</description>
     </item>
     <item>
@@ -86,25 +93,11 @@
       <description>These practicable skills can be invaluable in getting your ideas and hard work into the end product.</description>
     </item>
     <item>
-      <title>Wireframing Tips for Getting Unstuck</title>
-      <link>//localhost:1313/writing/mockups-tips-for-getting-unstuck/</link>
-      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/mockups-tips-for-getting-unstuck/</guid>
-      <description>Recognizing being stuck is the first step to getting unstuck. Here are 2 easy techniques with 11 practical strategies to help you break free from designer&amp;rsquo;s block.</description>
-    </item>
-    <item>
       <title>Forget your Dream Job</title>
       <link>//localhost:1313/writing/forget-your-dream-job/</link>
       <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/forget-your-dream-job/</guid>
       <description>I finally landed mine. And I was miserable.</description>
-    </item>
-    <item>
-      <title>The User Experience Gap</title>
-      <link>//localhost:1313/writing/the-user-experience-gap/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/the-user-experience-gap/</guid>
-      <description>Every once in a while I&amp;rsquo;m reminded that there are still plenty of products out there that are in need of some serious UX love.</description>
     </item>
     <item>
       <title>Using Wireframes with Agile User Stories</title>

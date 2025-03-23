@@ -10,23 +10,23 @@
     <atom:link href="//localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balsamiq Docs Case Study, Part 3: Lists Get a Makeover</title>
-      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</link>
+      <link>//localhost:1313/writing/docs-case-study-list-makeover/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</guid>
+      <guid>//localhost:1313/writing/docs-case-study-list-makeover/</guid>
       <description>Give list pages a makeover using Hugo, a static site generator, with source files on GitHub from Leon Barnard, Designer and Writer at Balsamiq.</description>
     </item>
     <item>
       <title>Balsamiq Docs Case Study, Part 2: Animated GIFs Pause and Play</title>
-      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-2--animated-gifs-pause-and-play/</link>
+      <link>//localhost:1313/writing/docs-case-study-animated-gifs/</link>
       <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-2--animated-gifs-pause-and-play/</guid>
+      <guid>//localhost:1313/writing/docs-case-study-animated-gifs/</guid>
       <description>Learn how to play and pause animated GIFs on static sites such as Hugo on GitHub from Leon Barnard, Designer and Writer at Balsamiq.</description>
     </item>
     <item>
       <title>Balsamiq Docs Case Study, Part 1: Multiple Product Versions</title>
-      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-1--multiple-product-versions/</link>
+      <link>//localhost:1313/writing/docs-case-study-multiple-product-versions/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-1--multiple-product-versions/</guid>
+      <guid>//localhost:1313/writing/docs-case-study-multiple-product-versions/</guid>
       <description>Learn useful techniques for static sites such as Hugo on GitHub from Leon Barnard, Designer and Writer at Balsamiq. He describes documenting multiple versions of a product with a Go-coded solution.</description>
     </item>
   </channel>

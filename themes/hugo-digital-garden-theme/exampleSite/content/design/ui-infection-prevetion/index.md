@@ -2,7 +2,7 @@
 title: "UI Design for Infection Prevention"
 draft: false
 summary: "A series of UI design projects to provide needed capabilities to hospital Infection Prevention specialists."
-weight: 7
+weight: 10
 Tags: ["Wireframes", "Prototyping", "UI Design"]
 ---
 

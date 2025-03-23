@@ -30,6 +30,13 @@
       <description>A redesign of the setup and configuration interface for a physical therapy product as a UX team of one.</description>
     </item>
     <item>
+      <title>Live Wireframing Sessions</title>
+      <link>//localhost:1313/design/live-wireframing-sessions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/design/live-wireframing-sessions/</guid>
+      <description>Research, writing, and design for user stories and design specifications.</description>
+    </item>
+    <item>
       <title>Wireframing for Everyone</title>
       <link>//localhost:1313/writing/wireframing-for-everyone/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
@@ -44,6 +51,13 @@
       <description>Learn how to improve your website’s user experience! For each mistake you’ll learn what usually happens and why, what it looks like, and what to do about it.</description>
     </item>
     <item>
+      <title>The Antidote To UX Burnout is Designing For Users Who Need it Most</title>
+      <link>//localhost:1313/writing/antidote-ux-burnout/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/antidote-ux-burnout/</guid>
+      <description>User experience design remains a highly-coveted and relatively satisfying profession. But I’ve started to see a noticeable trend in feelings of burnout and frustration in our field.</description>
+    </item>
+    <item>
       <title>Considerations for Using Markdown Writing Apps on Static Sites</title>
       <link>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
@@ -52,9 +66,9 @@
     </item>
     <item>
       <title>Get Developers on Your Side by Making Their Job Easier</title>
-      <link>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</link>
+      <link>//localhost:1313/writing/get-developers-on-your-side/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</guid>
+      <guid>//localhost:1313/writing/get-developers-on-your-side/</guid>
       <description>If you’ve never worked in the software industry before, learning the culture can be a huge part of your first year on the job.</description>
     </item>
     <item>
@@ -80,9 +94,9 @@
     </item>
     <item>
       <title>UI vs. UX: A Culinary Comparison</title>
-      <link>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</link>
+      <link>//localhost:1313/writing/ui-vs-ux/</link>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</guid>
+      <guid>//localhost:1313/writing/ui-vs-ux/</guid>
       <description>This article will combine storytelling with analogy to approach the subject of explaining UX differently.</description>
     </item>
     <item>
@@ -101,23 +115,23 @@
     </item>
     <item>
       <title>Balsamiq Docs Case Study, Part 3: Lists Get a Makeover</title>
-      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</link>
+      <link>//localhost:1313/writing/docs-case-study-list-makeover/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</guid>
+      <guid>//localhost:1313/writing/docs-case-study-list-makeover/</guid>
       <description>Give list pages a makeover using Hugo, a static site generator, with source files on GitHub from Leon Barnard, Designer and Writer at Balsamiq.</description>
     </item>
     <item>
       <title>Balsamiq Docs Case Study, Part 2: Animated GIFs Pause and Play</title>
-      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-2--animated-gifs-pause-and-play/</link>
+      <link>//localhost:1313/writing/docs-case-study-animated-gifs/</link>
       <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-2--animated-gifs-pause-and-play/</guid>
+      <guid>//localhost:1313/writing/docs-case-study-animated-gifs/</guid>
       <description>Learn how to play and pause animated GIFs on static sites such as Hugo on GitHub from Leon Barnard, Designer and Writer at Balsamiq.</description>
     </item>
     <item>
       <title>Balsamiq Docs Case Study, Part 1: Multiple Product Versions</title>
-      <link>//localhost:1313/writing/balsamiq-docs-case-study--part-1--multiple-product-versions/</link>
+      <link>//localhost:1313/writing/docs-case-study-multiple-product-versions/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/balsamiq-docs-case-study--part-1--multiple-product-versions/</guid>
+      <guid>//localhost:1313/writing/docs-case-study-multiple-product-versions/</guid>
       <description>Learn useful techniques for static sites such as Hugo on GitHub from Leon Barnard, Designer and Writer at Balsamiq. He describes documenting multiple versions of a product with a Go-coded solution.</description>
     </item>
     <item>
@@ -129,9 +143,9 @@
     </item>
     <item>
       <title>From the Classroom to the Cubicle: UX in the Real World</title>
-      <link>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</link>
+      <link>//localhost:1313/writing/ux-in-the-real-world/</link>
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</guid>
+      <guid>//localhost:1313/writing/ux-in-the-real-world/</guid>
       <description>When you arrive at your first UX job you&#39;ll find conditions a little different than they were in the classroom.</description>
     </item>
     <item>
@@ -143,9 +157,9 @@
     </item>
     <item>
       <title>HTML and CSS: Still Relevant for Designers</title>
-      <link>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</link>
+      <link>//localhost:1313/writing/html-and-css-still-relevant-for-designers/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</guid>
+      <guid>//localhost:1313/writing/html-and-css-still-relevant-for-designers/</guid>
       <description>Knowing only HTML and CSS will still get you far as a designer, and can give you all the qualifications you need to meet the new bar for designers.</description>
     </item>
     <item>
@@ -184,25 +198,11 @@
       <description>Himalayan red panda</description>
     </item>
     <item>
-      <title>Wireframing Tips for Getting Unstuck</title>
-      <link>//localhost:1313/writing/mockups-tips-for-getting-unstuck/</link>
-      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/mockups-tips-for-getting-unstuck/</guid>
-      <description>Recognizing being stuck is the first step to getting unstuck. Here are 2 easy techniques with 11 practical strategies to help you break free from designer&amp;rsquo;s block.</description>
-    </item>
-    <item>
       <title>Forget your Dream Job</title>
       <link>//localhost:1313/writing/forget-your-dream-job/</link>
       <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/forget-your-dream-job/</guid>
       <description>I finally landed mine. And I was miserable.</description>
-    </item>
-    <item>
-      <title>The User Experience Gap</title>
-      <link>//localhost:1313/writing/the-user-experience-gap/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/the-user-experience-gap/</guid>
-      <description>Every once in a while I&amp;rsquo;m reminded that there are still plenty of products out there that are in need of some serious UX love.</description>
     </item>
     <item>
       <title>Using Wireframes with Agile User Stories</title>

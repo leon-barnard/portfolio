@@ -2,7 +2,7 @@
 title: "Agile User Stories and Design Specifications"
 draft: false
 summary: "Research, writing, and design for user stories and design specifications."
-weight: 1
+weight: 15
 Tags: ["Wireframes", "Research", "Agile"]
 ---
 

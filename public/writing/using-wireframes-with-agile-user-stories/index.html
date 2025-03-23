@@ -11,15 +11,14 @@
     
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/all.min.css">
-    <link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <link rel="stylesheet" type="text/css" href="/css/my_style.css">
+    <link rel="shortcut icon" href="/favicon3.png">
     
     
     
     <title>Leon Barnard&#39;s Portfolio | Using Wireframes with Agile User Stories</title>
     <meta name="description" content="A step-by-step guide on how to use wireframes in your Agile User Stories. Tips: add just enough detail and focus on what developers really need to know.">
-</head><body><nav class="navbar navbar-expand-lg">
+</head><body><nav class="navbar navbar-dark navbar-expand-lg">
     <div class="container">
         <a class="navbar-brand" href="//localhost:1313/">
             
@@ -93,13 +92,148 @@
 
     <div class="container-fluid py-3">
         <div class="serif main-content">
-            
+            <p>Agile User Stories are great because they focus on user needs and are short and decipherable, unlike functional specification documents. But they often lack details that front-end developers need to design the user interface. In this article we&rsquo;ll learn how wireframes and User Stories can work together to provide adequate information without unnecessary effort.</p>
+<p>Imagine that you&rsquo;ve come up with a design that allows users to view a list of customer demographic information. Something like this:</p>
+<p><img src="/userstories1.png" alt="Wireframe of a data grid with columns for customer demographic information and action buttons for editing and deleting data."></p>
+<p>It&rsquo;s tempting just to drop this into a <a href="https://en.wikipedia.org/wiki/User_story" target="_blank">User Story</a> and say &ldquo;build this.&rdquo; But it&rsquo;s important not to discount how much information is in your head about how this relatively simple page should function. There are some gaps that need to be filled in for the developer who&rsquo;s going to be building it. But don&rsquo;t under- or over-think these gaps. To find the right balance, take advantage of the <a href="https://en.wikipedia.org/wiki/80/20_rule" target="_blank">80/20 rule</a>.</p>
+<p>There&rsquo;s no question that developers need detail in User Stories. Wireframes are great because they will get you 80% of the information that you need to communicate with 20% of the effort of a more interactive or pixel-perfect tool. So, don&rsquo;t spend 80% of your effort on that last 20% of the detail, just describe it using plain language in the User Story (I&rsquo;ll describe how later).</p>
+<p>The goal is not to have a huge, impressive-looking specification or prototype, <strong>the goal is to ship a product that allows your users to accomplish their goals</strong>.</p>
+<p>Your User Story should be <em>just enough</em> to get it built successfully. Any effort beyond that is a waste.</p>
+<h2 id="step-1-break-up-the-design"id="step-1-break-up-the-design"
+>Step 1: Break up the design 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/using-wireframes-with-agile-user-stories/#step-1-break-up-the-design&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>What often surprises product managers is how long it takes to develop user interfaces. A lot of that frustration is due to a lack of understanding about how user interfaces are actually built. There is rarely a correlation between how long it takes to design and how long it takes to build. That&rsquo;s why it&rsquo;s useful to <strong>divide up the design into smaller chunks.</strong></p>
+<p>Even this simple design can be broken down into pieces. Pieces, it should be noted, that can be delivered individually (as long as an order is obeyed). You can&rsquo;t deliver an incomplete feature, but you can deliver a small part of a larger feature. There&rsquo;s a difference. A <a href="https://balsamiq.com/learn/ui-control-guidelines/buttons/" target="_blank">button</a> that doesn&rsquo;t do anything when you click it is incomplete. A <a href="https://balsamiq.com/learn/ui-control-guidelines/tables-data-grids/" target="_blank">data table</a> that you can view but not edit, for example, can stand on its own.</p>
+<p>Here&rsquo;s how you might break this feature up into pieces:</p>
+<p><img src="/userstories2.png" alt=""></p>
+<ol>
+<li>The table and its content</li>
+<li>The search field</li>
+<li>The edit and delete functionality</li>
+<li>The ability to export</li>
+</ol>
+<p>Note that, in that order, they can be delivered, and even released, in pieces. A table that doesn&rsquo;t have search may not be as useful as one that does, but it&rsquo;s still contributing towards the original feature requirement. <strong>Each Story should add some amount of value</strong>, however small, for the customer.</p>
+<p><em><strong>Note:</strong> Just because you&rsquo;re going to break up your work doesn&rsquo;t mean that you should think this way during the design phase. The <a href="https://balsamiq.com/learn/articles/what-are-wireframes/#why-use-wireframes" target="_blank">value of wireframes</a> is that they allow you to easily get what&rsquo;s in your head onto the page. And, more often than not, what&rsquo;s in your head is at a high level. So, go with it, and design what&rsquo;s in your head. Don&rsquo;t worry about the Story writing when you&rsquo;re designing.</em></p>
+<h2 id="step-2-order-prioritize-estimate"id="step-2-order-prioritize-estimate"
+>Step 2: Order, prioritize, estimate 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/using-wireframes-with-agile-user-stories/#step-2-order-prioritize-estimate&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>A note about the ordering of the Stories. The important thing when breaking up a design into pieces is to <strong>find the foundation</strong>, the piece that other pieces will be built upon. In this case, a logical choice is the table itself. You could argue that this is also the most important piece of functionality. The foundation often is. This should be the first Story you write.</p>
+<p>Writing the most important Stories first helps <strong>ensure that the most important features get delivered</strong>. With fixed release dates and shifting agendas, never assume that everything will get shipped. Start with the important stuff and you&rsquo;ll at least be maximizing the value of your time.</p>
+<p>When you insert the wireframe into the User Story you don&rsquo;t have to remove the other pieces of it. One of the things you can do is show the full wireframe that you created, but <strong>obscure the parts that don&rsquo;t apply</strong> to the specific Story. That way, it&rsquo;s clear what the objective of the Story is, but you&rsquo;re also keeping in focus the end goal.</p>
+<p>You might do something like this, for example:</p>
+<p><img src="/userstories3.png" alt="Wireframe of a data grid with user stories&rsquo; numbers on 3 different areas: search, export, and edit and delete functionality."></p>
+<p>One benefit of breaking up the design like this is that now you can get estimates on each of the pieces (and the wireframes alone should be enough to get estimates), which should not only be more accurate, but can be divided up across sprints. Let&rsquo;s say that after the estimation meeting the point values end up something like this:</p>
+<ol>
+<li>Table with customer data - 2 points</li>
+<li>Edit and delete functionality - 4 points</li>
+<li>Search - 1 point</li>
+<li>Export - 3 points</li>
+</ol>
+<p>This will allow the product owner to <strong>make better cost-benefit decisions about the overall set of features</strong>. Maybe the export function is something that one noisy customer keeps asking for but that you know won&rsquo;t be used by most of your customers. Seeing that this piece is relatively more &ldquo;expensive&rdquo; than some of the other pieces might prompt you to put it off until the next release. This wouldn&rsquo;t have been possible if all you had was a 10-point estimate for the whole design.</p>
+<p>We&rsquo;ve actually come a long way already at this point. But don&rsquo;t stop there, there&rsquo;s one more step!</p>
+<h2 id="step-3-write-the-recipe"id="step-3-write-the-recipe"
+>Step 3: Write the &ldquo;recipe&rdquo; 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/using-wireframes-with-agile-user-stories/#step-3-write-the-recipe&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><p>The final phase is to use the wireframe to help you figure out the details that the developers need to know to build it. A trick I learned to do this is to <strong>imagine yourself using it</strong>. Wireframes clarify the picture in your head of what you&rsquo;re building and allow you to picture its use. This process is helpful in providing the details that the developers want in order to building it.</p>
+<p><a href="https://balsamiq.com/learn/articles/how-to-start-a-wireframe/" target="_blank">Creating a wireframe</a> is kind of like cooking something. Think about cooking your favorite dish. Now, think about writing a recipe for how to cook what you&rsquo;ve made. It&rsquo;s a different process entirely. It&rsquo;s shifted from <em>creating</em> to <em>communicating</em>. It&rsquo;s all about putting yourself in their shoes and not making too many assumptions about their level of understanding or knowledge.</p>
+<p>The lesson here is that the process of <strong>creating the wireframe is actually more for you than for the developer</strong>. It helps <em>you</em> <a href="https://balsamiq.com/learn/articles/wireframing-phases-ideation-validation/#the-ideation-phase" target="_blank">figure out what you want to build</a>, which, in turn, makes it easier to <a href="https://balsamiq.com/learn/articles/five-steps-to-great-wireframes/#4-communicate" target="_blank">communicate how to build it</a> (even if you&rsquo;re completely non-technical).</p>
+<p>The structure of a User Story is often the following:</p>
+<ol>
+<li>Summary/Story Narrative</li>
+<li>Wireframe</li>
+<li>Acceptance Criteria</li>
+</ol>
+<p><em><strong>Note:</strong> I like to include the &ldquo;why&rdquo; of what we&rsquo;re building in the Story Narrative section and explain what value this feature provides. Believe it or not, developers care about this. And this explanation should <a href="https://balsamiq.com/learn/articles/five-steps-to-great-wireframes/#5-validate" target="_blank">pass their &ldquo;smell test&rdquo;</a> too. If you can&rsquo;t get them to &ldquo;buy into it&rdquo;, maybe you should revisit why you&rsquo;re doing it.</em></p>
+<p>The third part is Acceptance Criteria (also called Conditions of Satisfaction, Acceptance Tests, etc.). This section is both for the developers and the testers. Here is where I think it&rsquo;s OK to take a bit of liberty with the traditional format. I like to think of this section as the recipe part.</p>
+<p>Here is where you, to the best of your ability, <a href="https://balsamiq.com/learn/courses/intro-to-ui-design/creating-software-guide/#step-7-work-closely-with-developers" target="_blank">tell the developers how to build it</a>. Don&rsquo;t worry if you have a hard time with this at first, one of the benefits of this process is that it helps you learn <strong>what information developers need to build things</strong>. It opens the window into the development process, which benefits everyone.</p>
+<p>Again, here we start with a foundation. Don&rsquo;t be afraid to get very basic. You might start, for example, with &ldquo;Create a table with the following columns: Last Name, First Name, Address, Phone&rdquo;. Small pieces make it easy to check things off, and often actually correspond to the chunks of code the developer has to write.</p>
+<p>Now that you can see this table with customer information in it, picture using it. Aside from the features that you&rsquo;ve deliberately split off into other Stories, what might you, as a user, see and do here? Can you sort columns? If so, all columns, or just some of them? Anything that you can come up with along these lines is most likely information that the developer needs to know.</p>
+<p>As a bonus, if you&rsquo;re somewhat technically savvy, you might be able to think of other things the developer might want to know. You might know that address data is stored in separate database fields (street, city, state, zip, for example). If you don&rsquo;t specify, the developer may create separate columns in the table for each of these, because that&rsquo;s how they see &ldquo;address&rdquo;. But, you may know that users prefer to see these fields together (maybe so they can easily copy and paste them all at once). So, add to your recipe that the address field should include street, city, state and zip together.</p>
+<p>But, also, realize then that users probably won&rsquo;t be able to sort the table by city, for example, because &ldquo;city&rdquo; is not a distinct column in the table. Product managers often want it both ways. Being forced to write the recipe yourself doesn&rsquo;t allow for that. It&rsquo;s a trade-off: do you want a more human-readable address field, or do you want to be able to sort by each part of the address? It&rsquo;s up to you. This is not the developer&rsquo;s problem.</p>
+<p>For this particular Story, here&rsquo;s what your acceptance criteria might look like, just to give an idea of some other possible details you could include.</p>
+<blockquote>
+<p>Acceptance Criteria:</p>
+<ol>
+<li>
+<p>Create a table with the following columns: Last Name, First Name, Address, Phone</p>
+</li>
+<li>
+<p>Add a level 3 heading title above the table with the label &ldquo;Customers&rdquo;</p>
+</li>
+<li>
+<p>The Last Name, First Name, and Phone columns should include the last name, first name, and primary phone number fields, respectively, for each customer</p>
+</li>
+<li>
+<p>The Address column should be comprised of the following fields (in this order): street, city, state (abbreviated), and zip code (5 digits only). Wrap the text to the next line at 100 characters.</p>
+</li>
+<li>
+<p>By default, order the table by customer&rsquo;s last name (ascending)</p>
+</li>
+<li>
+<p>Allow the table to be sorted by last name or first name</p>
+</li>
+<li>
+<p>Add pagination at 25 rows</p>
+</li>
+</ol>
+</blockquote>
+<p>See how many details there can be for a simple 4-column table?! The takeaway here is not how hard it is to build this table (it may take only 30 minutes if you already have a table framework in place), but <strong>how many decisions need to be made when building it</strong>. And that, if you don&rsquo;t specify them, those decisions will either be made by the developer or the framework you&rsquo;re using. As in many cases, not making a decision <em>is</em> making a decision.</p>
+<p>At this point, you should show the Story to the development team for a reality check, make any modifications necessary based on their <a href="https://balsamiq.com/learn/articles/how-to-get-design-feedback/" target="_blank">feedback</a>, and put it in the development queue. That&rsquo;s it! Then, on to the next Story&hellip; 😉</p>
+<h2 id="a-few-final-tips"id="a-few-final-tips"
+>A few final tips 
+<button 
+    type="button" 
+    class="anchor" 
+    data-title="Copy link to clipboard" 
+    aria-label="Copy link to clipboard"
+    onclick="navigator.clipboard.writeText(&#34;//localhost:1313/writing/using-wireframes-with-agile-user-stories/#a-few-final-tips&#34;);this.insertAdjacentHTML('afterend', '<div class=link-copied>Link copied</div>');setTimeout(() => { document.querySelectorAll('.link-copied').forEach(el => el.remove()); }, 3000);"
+>
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 96 960 960" width="1em">
+        <path d="M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z"/>
+    </svg>
+</button>
+</h2><ol>
+<li>Sometimes you&rsquo;ll want to <strong>make minor tweaks to the Story</strong> after the wireframe is done (label changes, etc.). Even though updating the wireframe is easy, I often just update the text of the Story. I make it known that if there&rsquo;s a discrepancy between the text and the wireframe, always follow what the text says.</li>
+<li><strong>Be casual in your language.</strong> Write like you would write for someone who&rsquo;s looking after your dog while you&rsquo;re away. Don&rsquo;t be afraid to write things like &ldquo;the styling should look like our other tables&rdquo; or &ldquo;work with the graphic designer to create an export icon&rdquo;. Only include as much detail as necessary. Ask the developer if anything is unclear to them.</li>
+<li>Every developer is different, so <strong>you may end up changing the level of detail</strong> based on your team. Some just look at the wireframe, some go straight for the acceptance criteria. Some improvise when details are missing, others refuse to continue until they get clarification. Try to learn their styles and preferences. Ultimately, try to take responsibility for making your Story clear and easy to understand.</li>
+</ol>
+
 
 <hr class="mt-5">
 <div class="row mt-5">
   <div class="col-md-4">
             
-              <a href="/writing/the-user-experience-gap/" class="badge tag-badge" style="text-wrap:wrap">&larr;The User Experience Gap</a>
+              <a href="/writing/forget-your-dream-job/" class="badge tag-badge" style="text-wrap:wrap">&larr;Forget your Dream Job</a>
             
 </div>            
 <div class="col-md-4 text-center small">

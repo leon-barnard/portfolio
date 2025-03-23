@@ -8,6 +8,8 @@
   </url><url>
     <loc>//localhost:1313/design/setup-config-redesign/</loc>
   </url><url>
+    <loc>//localhost:1313/design/live-wireframing-sessions/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/favorite/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,6 +34,12 @@
     <loc>//localhost:1313/tags/marketing/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/career/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/antidote-ux-burnout/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,10 +49,7 @@
     <loc>//localhost:1313/design/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/career/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/writing/get-developers-on-your-side-by-making-their-job-easier/</loc>
+    <loc>//localhost:1313/writing/get-developers-on-your-side/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/speaking/</loc>
@@ -62,7 +67,7 @@
     <loc>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</loc>
     <lastmod>2018-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/ui-vs--ux--a-culinary-comparison/</loc>
+    <loc>//localhost:1313/writing/ui-vs-ux/</loc>
     <lastmod>2018-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/what-is-ui-design/</loc>
@@ -71,28 +76,28 @@
     <loc>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</loc>
     <lastmod>2017-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/balsamiq-docs-case-study--part-3--lists-get-a-makeover/</loc>
+    <loc>//localhost:1313/writing/docs-case-study-list-makeover/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/docs/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/balsamiq-docs-case-study--part-2--animated-gifs-pause-and-play/</loc>
+    <loc>//localhost:1313/writing/docs-case-study-animated-gifs/</loc>
     <lastmod>2017-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/balsamiq-docs-case-study--part-1--multiple-product-versions/</loc>
+    <loc>//localhost:1313/writing/docs-case-study-multiple-product-versions/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/wireframing-for-beginners/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/from-the-classroom-to-the-cubicle--ux-in-the-real-world/</loc>
+    <loc>//localhost:1313/writing/ux-in-the-real-world/</loc>
     <lastmod>2016-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/getting-started-with-static-sites/</loc>
     <lastmod>2016-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/html-and-css--still-relevant-for-designers/</loc>
+    <loc>//localhost:1313/writing/html-and-css-still-relevant-for-designers/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/soft-skills-for-ux-designers/</loc>
@@ -110,14 +115,8 @@
     <loc>//localhost:1313/fun/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/writing/mockups-tips-for-getting-unstuck/</loc>
-    <lastmod>2014-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/writing/forget-your-dream-job/</loc>
     <lastmod>2014-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/writing/the-user-experience-gap/</loc>
-    <lastmod>2013-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</loc>
     <lastmod>2013-02-06T00:00:00+00:00</lastmod>
