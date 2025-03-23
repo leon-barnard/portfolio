@@ -20,6 +20,7 @@ This design was used to get internal buy-in as well as for estimating developmen
 
 ![](custom_reports5.png)
 
+---
 
 ## Positive Cultures List Enhancements
 
@@ -33,6 +34,7 @@ I also designed several key pieces of new functionality without adding unnecessa
 
 ![](CLL_full.png)
 
+---
 
 ## NHSN Export Capability
 

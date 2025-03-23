@@ -6,7 +6,6 @@
     <description>Recent content in UX Design on Leon Barnard&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup and Configuration Redesign</title>
@@ -34,7 +33,7 @@
       <link>//localhost:1313/design/live-wireframing-sessions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/design/live-wireframing-sessions/</guid>
-      <description>One-on-One online design consultations for do-gooders to help them bring their ideas to life.</description>
+      <description>One-on-one online design consultations to help do-gooders bring their ideas to life.</description>
     </item>
   </channel>
 </rss>

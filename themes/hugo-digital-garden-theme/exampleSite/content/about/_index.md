@@ -1,6 +1,5 @@
 ---
-title: "Leon Barnard"
-date: 2015-01-01
+title: "About"
 summary: "Designer, Writer, and Thinker"
 layout: about
 ---

@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agile User Stories and Design Specifications</title>
-      <link>//localhost:1313/design/agile-user-stories/</link>
+      <title>Setup and Configuration Redesign</title>
+      <link>//localhost:1313/design/setup-config-redesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/design/agile-user-stories/</guid>
-      <description>Research, writing, and design for user stories and design specifications.</description>
+      <guid>//localhost:1313/design/setup-config-redesign/</guid>
+      <description>A redesign of the setup and configuration interface for a physical therapy product as a UX team of one.</description>
     </item>
     <item>
       <title>UI Design for Infection Prevention</title>
@@ -23,18 +23,18 @@
       <description>A series of UI design projects to provide needed capabilities to hospital Infection Prevention specialists.</description>
     </item>
     <item>
-      <title>Setup and Configuration Redesign</title>
-      <link>//localhost:1313/design/setup-config-redesign/</link>
+      <title>Agile User Stories and Design Specifications</title>
+      <link>//localhost:1313/design/agile-user-stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/design/setup-config-redesign/</guid>
-      <description>A redesign of the setup and configuration interface for a physical therapy product as a UX team of one.</description>
+      <guid>//localhost:1313/design/agile-user-stories/</guid>
+      <description>Research, writing, and design for user stories and design specifications.</description>
     </item>
     <item>
       <title>Live Wireframing Sessions</title>
       <link>//localhost:1313/design/live-wireframing-sessions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/design/live-wireframing-sessions/</guid>
-      <description>Research, writing, and design for user stories and design specifications.</description>
+      <description>One-on-one online design consultations to help do-gooders bring their ideas to life.</description>
     </item>
     <item>
       <title>Wireframing for Everyone</title>
@@ -182,13 +182,6 @@
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/3-steps-to-better-ui-wireframes/</guid>
       <description>If you&#39;re new to wireframing, or are looking to level up your wireframe game, these steps should help you get the most out of the wireframing stage.</description>
-    </item>
-    <item>
-      <title>Leon Barnard</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>Designer, Writer, and Thinker</description>
     </item>
     <item>
       <title>Nigalya Ponya</title>

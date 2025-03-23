@@ -1,15 +1,4 @@
 {{ define "main" }}
-
-<!-- <div class="mt-5 pt-5 pb-1">
-    <div class="container" >
-       	<h1 class="name display-1"><b>{{ .Site.Params.Name }}</b></h1>
-    </div>
-</div>
-<div class="mb-5 py-4">
-    <div class="container">
-        <h2 class="bio lh-base fs-1 serif">{{ .Site.Params.Description }}</h2>
-    </div>
-</div> -->
 <div class="container hero fs-4 mt-5">
   <h1 class="heading display-4 me"><em>Hello!</em></h1>
   <h2 class="heading">This is the website of <span class="me">Leon Barnard</span>, <a href="/design">designer</a>, <a href="writing">writer</a>, family guy, and sometimes <a href="https://www.mixcloud.com/leonbarnard/" target="_blank">DJ</a>.</h2>
@@ -29,7 +18,7 @@
 			{{ end }}
 			{{ end }}
 			<div class="row justify-content-between g-4 mb-5">
-				{{ range ( where site.RegularPages.ByWeight.Reverse "Section" "design" | first 6 ) }}
+				{{ range ( where site.RegularPages.ByWeight "Section" "design" | first 6 ) }}
 				{{ partial "home_design.html" . }}
 				{{end}}
     		</div>
