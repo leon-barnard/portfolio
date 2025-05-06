@@ -173,8 +173,9 @@ code {
 /********************* Navbar *********************/
 
 .navbar {
-  background: var(--sage) !important;
-  background: var(--lighter-blue) !important; 
+  /* background: var(--sage) !important; */
+  /* background: var(--lighter-blue) !important; */
+  /* background: #75c3e7 !important;   */
   background: var(--blue) !important; 
   color: var(--white);
   font-family: var(--nav);

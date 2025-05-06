@@ -10,20 +10,47 @@
   </url><url>
     <loc>//localhost:1313/design/live-wireframing-sessions/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/favorite/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/harnessing-wireframes/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/ux/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/wireframing/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/crafting-saas-success/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/remote/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ux/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/hcd-podcast/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/startups-for-the-rest-of-us/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/career/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/remote-work-success/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/wireframing-for-saas-startups/</loc>
+    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/ui-breakfast-podcast/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/wireframing-for-everyone/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
@@ -31,35 +58,50 @@
     <loc>//localhost:1313/writing/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/speaking/meet-the-book--wireframing-for-everyone/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/web/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/writing/common-website-mistakes-and-how-to-fix-them/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/marketing/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/career/</loc>
-    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/writing/antidote-ux-burnout/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/life-s-too-short-for-bad-software--with-leon-barnard/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/considerations-for-using-markdown-writing-apps-on-static-sites/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/web/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/speaking/</loc>
-    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/writing/get-developers-on-your-side/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/leon-barnard-of-balsamiq---you-need-to-be-ok-with-not-knowing-what-everyone-is-working-on/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/five-steps-to-creating-great-wireframes/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/writing/wireframes-aren-t-just-for-designers/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/why-wireframes-still-relevant/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/writing/how-to-start-a-wireframe-project/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/5-ux-designers-share-lessons-learned/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</loc>
     <lastmod>2018-12-17T00:00:00+00:00</lastmod>
@@ -70,13 +112,19 @@
     <loc>//localhost:1313/writing/what-is-ui-design/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</loc>
+    <lastmod>2018-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/-why-markdown--presentation/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/docs/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</loc>
     <lastmod>2017-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/docs-case-study-list-makeover/</loc>
-    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/docs/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/docs-case-study-animated-gifs/</loc>
@@ -94,6 +142,15 @@
     <loc>//localhost:1313/writing/getting-started-with-static-sites/</loc>
     <lastmod>2016-06-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/speaking/transforming-your-documentation-process/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/documentation/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</loc>
+    <lastmod>2016-02-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/writing/html-and-css-still-relevant-for-designers/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -106,11 +163,20 @@
     <loc>//localhost:1313/writing/3-steps-to-better-ui-wireframes/</loc>
     <lastmod>2015-09-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/writing/working-from-home-better/</loc>
+    <lastmod>2015-09-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/fun/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/forget-your-dream-job/</loc>
     <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/the-user-experience-gap/</loc>
+    <lastmod>2013-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/writing/tales-from-a-ux-guerrilla/</loc>
+    <lastmod>2013-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</loc>
     <lastmod>2013-02-06T00:00:00+00:00</lastmod>
@@ -123,16 +189,38 @@
   </url><url>
     <loc>//localhost:1313/tags/css/</loc>
   </url><url>
+    <loc>//localhost:1313/speaking/five-steps-to-creating-great-wireframes--webinar/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/html/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/learn-wireframing-from-scratch-with--balsamiq/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/panel-discussion--remote-design-collaboration/</loc>
   </url><url>
     <loc>//localhost:1313/tags/prototyping/</loc>
   </url><url>
     <loc>//localhost:1313/tags/research/</loc>
   </url><url>
+    <loc>//localhost:1313/speaking/talking-about-ui-ux-with-leon-barnard/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/ui-design/</loc>
   </url><url>
     <loc>//localhost:1313/design/</loc>
   </url><url>
+    <loc>//localhost:1313/speaking/webinar---demystifying-the-ux-design-process/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/webinar--design-tips-for-a-more-effective-nonprofit-website/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/webinar--how-to-use-wireframes-with-agile-user-stories/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/webinar--user-experience-as-a-career/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/wireframes/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/wireframing---prototyping--ft--leon-barnard/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/wireframing-for-newbies/</loc>
+  </url><url>
+    <loc>//localhost:1313/speaking/workshop-talk---why-markdown/</loc>
   </url>
 </urlset>

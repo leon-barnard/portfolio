@@ -6,8 +6,50 @@
     <description>Recent content in Wireframing on Leon Barnard&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/wireframing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harnessing the Power of Wireframes</title>
+      <link>//localhost:1313/speaking/harnessing-wireframes/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/harnessing-wireframes/</guid>
+      <description>Product experts Ellen Chisa and Leon Barnard join Melissa Perri to discuss the importance of wireframing in product development.</description>
+    </item>
+    <item>
+      <title>Behind the Wireframes: Crafting SaaS Success with UX Expertise</title>
+      <link>//localhost:1313/speaking/crafting-saas-success/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/crafting-saas-success/</guid>
+      <description>Valuable insights into the world of wireframing and its role in the design and development process.</description>
+    </item>
+    <item>
+      <title>Leon Barnard &#39;Wireframing for Everyone&#39;</title>
+      <link>//localhost:1313/speaking/hcd-podcast/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/hcd-podcast/</guid>
+      <description>A conversation about the approach and mindset of wireframing, and how it unlocks blockers within teams.</description>
+    </item>
+    <item>
+      <title>Design Faster and More Effectively With Wireframing</title>
+      <link>//localhost:1313/speaking/startups-for-the-rest-of-us/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/startups-for-the-rest-of-us/</guid>
+      <description>Tracy Osborn interviews Leon Barnard from Balsamiq about wireframing and design.</description>
+    </item>
+    <item>
+      <title>Wireframing 101 for SaaS Startups – with Leon Barnard</title>
+      <link>//localhost:1313/speaking/wireframing-for-saas-startups/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/wireframing-for-saas-startups/</guid>
+      <description>How to craft effective wireframes, dodge common pitfalls, and design great SaaS products.</description>
+    </item>
+    <item>
+      <title>UI Breakfast Podcast. Episode 271: Wireframing for Everyone</title>
+      <link>//localhost:1313/speaking/ui-breakfast-podcast/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/ui-breakfast-podcast/</guid>
+      <description>Learn about the journey of writing the book, and the different phases and types of wireframing,</description>
+    </item>
     <item>
       <title>Wireframing for Everyone</title>
       <link>//localhost:1313/writing/wireframing-for-everyone/</link>
@@ -16,11 +58,32 @@
       <description>Wireframing for Everyone demystifies UI design through wireframes, by stripping away the decorative layer so that anyone can learn to construct a digital product and make it easy to use. Get it free.</description>
     </item>
     <item>
+      <title>Meet the Book: Wireframing for Everyone by Michael Angeles, Leon Barnard, and Billy Carlson</title>
+      <link>//localhost:1313/speaking/meet-the-book--wireframing-for-everyone/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/meet-the-book--wireframing-for-everyone/</guid>
+      <description>A peek into the book with our Meet the Book Q&amp;amp;A series. Learn what inspired the most important ideas of the book, how the three authors collaborated, and who should read this book.</description>
+    </item>
+    <item>
       <title>Five Steps to Creating Great Wireframes</title>
       <link>//localhost:1313/writing/five-steps-to-creating-great-wireframes/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/five-steps-to-creating-great-wireframes/</guid>
       <description>Good wireframes solve real problems and lead to strong products. From writing out the scenario to gathering inputs, here is a proven path to a great website or app.</description>
+    </item>
+    <item>
+      <title>Wireframes Aren’t Just for Designers</title>
+      <link>//localhost:1313/writing/wireframes-aren-t-just-for-designers/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/wireframes-aren-t-just-for-designers/</guid>
+      <description>Leon Barnard explains how wireframes can be invaluable in facilitating communication and knowledge transfer during the product development process.</description>
+    </item>
+    <item>
+      <title>Why Wireframes are Still Relevant</title>
+      <link>//localhost:1313/writing/why-wireframes-still-relevant/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/why-wireframes-still-relevant/</guid>
+      <description>Why you should wireframe, what’s the right level of detail, where prototypes and sketches fit in, and how to make them a great communication tool for non-designers.</description>
     </item>
     <item>
       <title>How to Start a Wireframe Project</title>
@@ -49,6 +112,13 @@
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/wireframing-for-beginners/</guid>
       <description>Wireframing is an essential skill for UX Designers and other experience design participants. Learn how to get your wireframing off to the right start.</description>
+    </item>
+    <item>
+      <title>Why Marketers Need to Learn Wireframing</title>
+      <link>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</guid>
+      <description></description>
     </item>
     <item>
       <title>Tips for Presenting Your Wireframes</title>

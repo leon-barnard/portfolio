@@ -51,6 +51,20 @@
       <description>Good wireframes solve real problems and lead to strong products. From writing out the scenario to gathering inputs, here is a proven path to a great website or app.</description>
     </item>
     <item>
+      <title>Wireframes Aren’t Just for Designers</title>
+      <link>//localhost:1313/writing/wireframes-aren-t-just-for-designers/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/wireframes-aren-t-just-for-designers/</guid>
+      <description>Leon Barnard explains how wireframes can be invaluable in facilitating communication and knowledge transfer during the product development process.</description>
+    </item>
+    <item>
+      <title>Why Wireframes are Still Relevant</title>
+      <link>//localhost:1313/writing/why-wireframes-still-relevant/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/why-wireframes-still-relevant/</guid>
+      <description>Why you should wireframe, what’s the right level of detail, where prototypes and sketches fit in, and how to make them a great communication tool for non-designers.</description>
+    </item>
+    <item>
       <title>How to Start a Wireframe Project</title>
       <link>//localhost:1313/writing/how-to-start-a-wireframe-project/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
@@ -156,11 +170,32 @@
       <description>If you&#39;re new to wireframing, or are looking to level up your wireframe game, these steps should help you get the most out of the wireframing stage.</description>
     </item>
     <item>
+      <title>On Working from Home, Better</title>
+      <link>//localhost:1313/writing/working-from-home-better/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/working-from-home-better/</guid>
+      <description>Reflections on my first three years of working fully remote. In order to succeed I had to forget what I thought that working looked like.</description>
+    </item>
+    <item>
       <title>Forget your Dream Job</title>
       <link>//localhost:1313/writing/forget-your-dream-job/</link>
       <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/forget-your-dream-job/</guid>
       <description>I finally landed mine. And I was miserable.</description>
+    </item>
+    <item>
+      <title>The User Experience Gap</title>
+      <link>//localhost:1313/writing/user-experience-gap/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/user-experience-gap/</guid>
+      <description>Every once in a while I&amp;rsquo;m reminded that there are still plenty of products out there that are in need of some serious UX love.</description>
+    </item>
+    <item>
+      <title>Tales from a UX Guerrilla</title>
+      <link>//localhost:1313/writing/tales-from-a-ux-guerrilla/</link>
+      <pubDate>Mon, 03 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/tales-from-a-ux-guerrilla/</guid>
+      <description>After several failed attempts, I found a way to bring UX to the table on a development-led project team.</description>
     </item>
     <item>
       <title>Using Wireframes with Agile User Stories</title>

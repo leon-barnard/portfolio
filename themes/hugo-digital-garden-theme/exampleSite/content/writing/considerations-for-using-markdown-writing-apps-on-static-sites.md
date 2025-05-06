@@ -2,7 +2,7 @@
 Title: 'Considerations for Using Markdown Writing Apps on Static Sites'
 Draft: false
 Summary: 'If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.'
-Tags: ['web', 'favorite']
+Tags: ['web']
 Link: '//css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/'
 Date: 2021-10-06
 Source: 'CSS-Tricks'

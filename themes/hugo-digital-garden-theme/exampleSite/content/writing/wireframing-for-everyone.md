@@ -2,7 +2,7 @@
 Title: 'Wireframing for Everyone'
 Draft: false
 Summary: 'Wireframing for Everyone demystifies UI design through wireframes, by stripping away the decorative layer so that anyone can learn to construct a digital product and make it easy to use. Get it free.'
-Tags: ['wireframing', 'ux', 'favorite']
+Tags: ['wireframing', 'ux']
 Date: 2023-06-13
 Img: '/wfe-book-lg.png'
 ---

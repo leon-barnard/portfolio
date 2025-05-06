@@ -2,7 +2,7 @@
 Title: 'How to Start a Wireframe Project'
 Draft: false
 Summary: 'Four techniques to start a wireframe project from scratch and ensure that you dedicate enough time to the ideation phase, where the success of your product begins.'
-Tags: ['ux', 'favorite', 'wireframing']
+Tags: ['ux', 'wireframing']
 Date: 2019-07-19
 Link: '//balsamiq.com/learn/articles/how-to-start-a-wireframe/'
 Source: 'Balsamiq Wireframing Academy'

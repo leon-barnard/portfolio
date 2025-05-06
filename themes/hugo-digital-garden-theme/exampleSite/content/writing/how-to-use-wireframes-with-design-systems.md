@@ -2,7 +2,7 @@
 Title: 'How to Use Wireframes with Design Systems'
 Draft: false
 Summary: 'An alternative to pushing wireframes beyond their limits is to keep them low fidelity and let another tool do the work of specifying the look and feel.'
-Tags: ['ux', 'wireframing', 'favorite']
+Tags: ['ux', 'wireframing']
 Link: '//www.freecodecamp.org/news/how-to-use-wireframes-with-design-systems-46f3040829b6/'
 Date: 2018-12-17
 Source: 'freeCodeCamp Blog'

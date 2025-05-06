@@ -18,7 +18,7 @@
 			{{ end }}
 			{{ end }}
 			<div class="row justify-content-between g-4 mb-5">
-				{{ range ( where site.RegularPages.ByWeight "Section" "design" | first 6 ) }}
+				{{ range ( where site.RegularPages.ByWeight "Section" "design" | first 3 ) }}
 				{{ partial "home_design.html" . }}
 				{{end}}
     		</div>
@@ -39,11 +39,10 @@
     {{ if .Summary }} <p class="subheading">{{ .Summary }}</p> {{ end }}
     {{ end }}
     <div class="row justify-content-between g-4 mb-5">
-      {{ with .Site.GetPage "section" "writing" }}
-      {{ range .Site.Taxonomies.tags.favorite | first 6 }}
+      {{ range ( where site.RegularPages.ByWeight "Section" "writing" | first 6 ) }}
       {{ partial "home_writing.html" . }}
-      {{ end }}
-      {{ end }}
+      {{end}}
+
         </div>
     {{ with .Site.GetPage "section" "writing" }}
     <div class="d-flex flex-row-reverse">
@@ -61,9 +60,10 @@
 		{{ if .Summary }} <p class="subheading">{{ .Summary }}</p> {{ end }}
     {{ end }}
     <div class="row justify-content-between g-4 mb-5">
-      {{ range ( where site.RegularPages.ByWeight.Reverse "Section" "speaking" | first 6 ) }}
-      {{ partial "home_design.html" . }}
+      {{ range ( where site.RegularPages.ByWeight "Section" "speaking" | first 6 ) }}
+      {{ partial "home_writing.html" . }}
       {{end}}
+
       </div>
     {{ with .Site.GetPage "section" "speaking" }}
     <div class="d-flex flex-row-reverse">

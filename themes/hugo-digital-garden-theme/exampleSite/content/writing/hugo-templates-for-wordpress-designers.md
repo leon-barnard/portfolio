@@ -2,7 +2,7 @@
 Title: 'Hugo Templates for WordPress Designers'
 Draft: false
 Summary: 'Dive into the basics of the popular static site generator called Hugo by comparing it to its most well-known &quot;dynamic&quot; ancestor, WordPress.'
-Tags: ['web', 'favorite']
+Tags: ['web']
 Link: '//blog.teamtreehouse.com/hugo-templates-wordpress-designers'
 Date: 2017-09-29
 Source: 'Treehouse Blog'
