@@ -11,7 +11,7 @@ Img: '/45-wireframing-for-everyone-forthcoming.png'
 
 We’re so excited for you to read [_Wireframing for Everyone_](/products/wireframing-for-everyone), a new book by Michael Angeles, Leon Barnard, and Billy Carlson, launching June 13.
 
-![Portion of the blue Wireframing for Everyone book cover and a black and white badge that reads Coming Soon.](https://abookapart.com/cdn/shop/t/4/assets/45-wireframing-for-everyone-forthcoming_480x480.png)
+![Portion of the blue Wireframing for Everyone book cover and a black and white badge that reads Coming Soon.](/45-wireframing-for-everyone-forthcoming.png)
 
 In the meantime, we’re giving you a peek into the book with our [Meet the Book Q&A series](tagged/meet-the-book.html). Read on to learn what inspired the most important ideas of the book, how the three authors collaborated to unify their voices, and who should read this book.
 

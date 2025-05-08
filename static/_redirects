@@ -1,0 +1,59 @@
+# Redirect domain aliases to primary domain
+
+https://www.leonland.com/* https://www.leon.land/:splat 301!
+
+
+# Redirects for DJ site
+/shop https://www.redbubble.com/people/leonbarnard/shop 301!
+/basecamp /portfolio/content-ux 301!
+/c2c  https://youtu.be/4rk1UaZfraE?si=fvlA41mtc29L3x5l 301!
+/wintry-mix https://www.mixcloud.com/leonbarnard/funky-house-and-disco-faves-winter-20242025/ 301!
+/paypal /PayPal-OptimisCaseStudy.pdf 301!
+/resume /LeonBarnardResume.pdf 301!
+/hireme /LeonBarnardResume.pdf 301!
+/hire-me  /LeonBarnardResume.pdf 301!
+/live https://www.mixcloud.com/leonbarnard/playlists/live-sets/ 301!
+/super70s https://www.mixcloud.com/leonbarnard/super-70s-yacht-rock-disco-and-soul/ 301!
+/imaginism  https://www.mixcloud.com/leonbarnard/live-xzbt-november-2023/ 301!
+/funky  https://www.mixcloud.com/leonbarnard/make-it-funky/ 301!
+/rewind https://www.mixcloud.com/leonbarnard/re-rewind-modern-throwbacks/ 301!
+/workout  https://www.mixcloud.com/leonbarnard/one-hour-workout/ 301!
+/disco-trip  https://www.mixcloud.com/leonbarnard/disco-trip/	301!
+/xzbt-2  https://www.mixcloud.com/leonbarnard/live-xzbt-7212023/	301!
+/house-disco-2  https://www.mixcloud.com/leonbarnard/modern-sounds-in-house-and-disco-vol-2/ 301!
+/house-disco  https://www.mixcloud.com/leonbarnard/modern-sounds-in-house-and-disco/ 301!
+/disco-boogie https://www.mixcloud.com/leonbarnard/disco-boogie-party/ 301!
+/april-2023 https://www.mixcloud.com/leonbarnard/live-xzbt-4202023/	301!	
+/march-2023 https://www.mixcloud.com/leonbarnard/live-comic-book-hideout-march-2023/	301!	
+/1801	https://www.mixcloud.com/leonbarnard/simpler-times-vol-1/	301!	
+/1802	https://www.mixcloud.com/leonbarnard/simpler-times-vol-2/	301!
+/1803	https://www.mixcloud.com/leonbarnard/simpler-times-vol-3/	301!
+/1804 	https://www.mixcloud.com/leonbarnard/1804-this-little-ditty/	301!
+/gb1	https://youtu.be/md-0ynhotOA	301!
+/afterparty	https://www.mixcloud.com/leonbarnard/the-afterparty/	301!
+/origami 	https://www.mixcloud.com/leonbarnard/funky-origami/	301!
+/1805	https://www.mixcloud.com/leonbarnard/house-to-new-jack-swing/	301!
+/1806	https://www.mixcloud.com/leonbarnard/totally-80s/	301!
+/1807/	https://www.mixcloud.com/leonbarnard/%C3%A0-la-plage/	301!
+/1808/	https://www.mixcloud.com/leonbarnard/la-piscine-le-soir/	301!
+/rise/	https://docs.google.com/presentation/d/17yhzEJdhxc92Tojjir6uYegHj56ukWzbQ0aqiVuO-II/edit?usp=sharing	301!
+/mashtape	https://www.mixcloud.com/leonbarnard/mashtapemixup/	301!
+/1809	https://www.mixcloud.com/leonbarnard/revenge-of-the-synth/	301!
+/1810	https://www.mixcloud.com/leonbarnard/chill-hop-2/	301!
+/1811	https://www.mixcloud.com/leonbarnard/rec-2018-11-16/	301!
+/1812	https://www.mixcloud.com/leonbarnard/tighten-up/	301!
+/1903	https://www.mixcloud.com/leonbarnard/simpler-times-vol-4/	301!
+/1904	https://www.mixcloud.com/leonbarnard/electric-feels/	301!
+/1906	https://www.mixcloud.com/leonbarnard/hip-hop-cocktail-party-part-1/	301!
+/discos-revenge	https://www.mixcloud.com/leonbarnard/discos-revenge/	301!
+/jan-2020	https://www.mixcloud.com/leonbarnard/live-coffee-conscious-january-2020/	301!
+/feb-2020	https://www.mixcloud.com/leonbarnard/live-kaleidoscope-coffee-february-2020/	301!
+/april-2020	https://www.mixcloud.com/leonbarnard/housefunkrapdisco/	301!
+/zoom-party	https://www.mixcloud.com/leonbarnard/virtual-house-party-zoom-show-april-2020/	301!
+/may-2020	https://www.mixcloud.com/leonbarnard/whatever-comes-next/	301!
+/genx	https://www.mixcloud.com/leonbarnard/gen-x-crowd-pleaser/	301!
+/hype-hop	https://www.mixcloud.com/leonbarnard/hype-hop/	301!
+/july-2020	https://www.mixcloud.com/leonbarnard/fever-dream/	301!
+/aug-2020	https://www.mixcloud.com/leonbarnard/back-to-the-wheelhouse/	301!
+/sep-2020	https://www.mixcloud.com/leonbarnard/at-home-with-house/	301!
+/the-wind-down	https://www.mixcloud.com/leonbarnard/the-wind-down/	301!
