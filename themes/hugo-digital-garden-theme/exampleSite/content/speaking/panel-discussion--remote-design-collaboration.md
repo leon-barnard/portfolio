@@ -1,7 +1,6 @@
 ---
 Title: 'Panel Discussion: Remote Design Collaboration'
-Draft: false
-Draft: false
+Draft: true
 Summary: ''
 Tags: []
 Link: ''

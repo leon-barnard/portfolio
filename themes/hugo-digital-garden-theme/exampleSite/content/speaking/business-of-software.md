@@ -11,4 +11,4 @@ Img: '/bos-podcast.jpg'
 
 Mark Littlewood spent some time withLeon Barnard Balsamiq's education team lead, to discuss how Balsamiq's approach to marketing was conceived, why the focus of all their efforts has always been to support the growth and development of product design as a discipline.
 
-<iframe src="https://creators.spotify.com/pod/show/business-of-software/embed/episodes/Ep-90-Lifes-too-short-for-bad-software-with-Leon-Barnard-e19lodv/a-a4a2dtq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://creators.spotify.com/pod/show/business-of-software/embed/episodes/Ep-90-Lifes-too-short-for-bad-software-with-Leon-Barnard-e19lodv/a-a4a2dtq" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
