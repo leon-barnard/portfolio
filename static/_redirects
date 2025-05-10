@@ -2,6 +2,13 @@
 
 https://www.leonland.com/* https://www.leon.land/:splat 301!
 
+# Redirects for old site
+
+/work / 301!
+/dj https://djleonb.com 301!
+/fun/*  /about  301!
+/contact  /about  301!
+/book /writing/wireframing-for-everyone/  301!
 
 # Redirects for DJ site
 /shop https://www.redbubble.com/people/leonbarnard/shop 301!
