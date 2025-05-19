@@ -23,13 +23,6 @@
       <description>If you use a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to fade so the content takes focus.</description>
     </item>
     <item>
-      <title>&#34;Why Markdown?&#34; Presentation</title>
-      <link>//localhost:1313/speaking/-why-markdown--presentation/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/-why-markdown--presentation/</guid>
-      <description>All the resources and files I&#39;ve used for my presentations about Markdown - leon-barnard/all-things-markdown</description>
-    </item>
-    <item>
       <title>Hugo Templates for WordPress Designers</title>
       <link>//localhost:1313/writing/hugo-templates-for-wordpress-designers/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>

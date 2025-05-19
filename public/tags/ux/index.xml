@@ -6,8 +6,15 @@
     <description>Recent content in Ux on Leon Barnard&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wireframing &amp; Prototyping (ft. Leon Barnard)</title>
+      <link>//localhost:1313/speaking/nelsen-norman-podcast/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/nelsen-norman-podcast/</guid>
+      <description>Why wireframing is not only still relevant, but essential for maximizing creativity and innovative thinking.</description>
+    </item>
     <item>
       <title>Behind the Wireframes: Crafting SaaS Success with UX Expertise</title>
       <link>//localhost:1313/speaking/crafting-saas-success/</link>
@@ -58,6 +65,13 @@
       <description>A peek into the book with our Meet the Book Q&amp;amp;A series. Learn what inspired the most important ideas of the book, how the three authors collaborated, and who should read this book.</description>
     </item>
     <item>
+      <title>Webinar: Design Tips for a More Effective Nonprofit Website</title>
+      <link>//localhost:1313/speaking/design-tips-for-a-more-effective-nonprofit-website/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/design-tips-for-a-more-effective-nonprofit-website/</guid>
+      <description>In this webinar you&amp;rsquo;ll learn the most impactful ways you can improve your nonprofit website to make it represent your mission and work toward your goals.</description>
+    </item>
+    <item>
       <title>Common Website Mistakes and How to Fix Them</title>
       <link>//localhost:1313/writing/common-website-mistakes-and-how-to-fix-them/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
@@ -72,11 +86,18 @@
       <description>User experience design remains a highly-coveted and relatively satisfying profession. But I’ve started to see a noticeable trend in feelings of burnout and frustration in our field.</description>
     </item>
     <item>
+      <title>Webinar: How to Use Wireframes With Agile User Stories</title>
+      <link>//localhost:1313/speaking/webinar-how-to-use-wireframes-with-agile-user-stories/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/webinar-how-to-use-wireframes-with-agile-user-stories/</guid>
+      <description>Learn how wireframes can be used with user stories to help balance the piecemeal nature of Agile development with big picture user needs and UI cohesiveness.</description>
+    </item>
+    <item>
       <title>Life&#39;s Too Short for Bad Software (with Leon Barnard)</title>
-      <link>//localhost:1313/speaking/life-s-too-short-for-bad-software--with-leon-barnard/</link>
+      <link>//localhost:1313/speaking/business-of-software/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/life-s-too-short-for-bad-software--with-leon-barnard/</guid>
-      <description></description>
+      <guid>//localhost:1313/speaking/business-of-software/</guid>
+      <description>Learn how Balsamiq&amp;rsquo;s approach to marketing was conceived, and why the focus has always been to support the growth and development of product design as a discipline.</description>
     </item>
     <item>
       <title>Get Developers on Your Side by Making Their Job Easier</title>
@@ -87,10 +108,17 @@
     </item>
     <item>
       <title>UX as a Career Path for Recent Graduates</title>
-      <link>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</link>
+      <link>//localhost:1313/speaking/ux-career-path-recent-graduates/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</guid>
-      <description>summary</description>
+      <guid>//localhost:1313/speaking/ux-career-path-recent-graduates/</guid>
+      <description>The Class of 2020 podcast is a community space for young minds, ages 16-25, paired with industry minds, to create connection and conversation.</description>
+    </item>
+    <item>
+      <title>Talking about UI/UX with Leon Barnard</title>
+      <link>//localhost:1313/speaking/interview-coder-foundry/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/interview-coder-foundry/</guid>
+      <description>Coder Foundry is an intensive full stack web developer program. Their YouTube channel provides advice to aspiring software developers on how to break into the industry.</description>
     </item>
     <item>
       <title>Five Steps to Creating Great Wireframes</title>
@@ -121,13 +149,6 @@
       <description>Four techniques to start a wireframe project from scratch and ensure that you dedicate enough time to the ideation phase, where the success of your product begins.</description>
     </item>
     <item>
-      <title>5 UX Designers Share Lessons Learned</title>
-      <link>//localhost:1313/speaking/5-ux-designers-share-lessons-learned/</link>
-      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/5-ux-designers-share-lessons-learned/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>How to Use Wireframes with Design Systems</title>
       <link>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
@@ -149,11 +170,11 @@
       <description>Learn to see like a UI designer by deconstructing an interface into its 4 layers: controls, patterns, design principles, and templates.</description>
     </item>
     <item>
-      <title>Lightning Talk: &#34;UX Design in the Real World&#34;</title>
-      <link>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</guid>
-      <description></description>
+      <title>Demystifying the UX Design Process</title>
+      <link>//localhost:1313/speaking/demystifying-ux-design/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/demystifying-ux-design/</guid>
+      <description>Learn why UX matters, the phases of UX design, and how to become a better UX designer.</description>
     </item>
     <item>
       <title>Wireframing for Beginners</title>
@@ -185,9 +206,9 @@
     </item>
     <item>
       <title>The User Experience Gap</title>
-      <link>//localhost:1313/writing/the-user-experience-gap/</link>
+      <link>//localhost:1313/writing/user-experience-gap/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/the-user-experience-gap/</guid>
+      <guid>//localhost:1313/writing/user-experience-gap/</guid>
       <description>Every once in a while I&amp;rsquo;m reminded that there are still plenty of products out there that are in need of some serious UX love.</description>
     </item>
     <item>
@@ -195,7 +216,7 @@
       <link>//localhost:1313/writing/tales-from-a-ux-guerrilla/</link>
       <pubDate>Mon, 03 Jun 2013 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/tales-from-a-ux-guerrilla/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;I have a confession to make.&lt;/strong&gt; For the first few years of my UX Design career I was afraid to call myself a designer.&lt;/p&gt;&#xA;&lt;p&gt;I rejected the designer moniker to gain acceptance at the technically focused, development-led enterprise software company where I started my UX career. In order to be involved in the process, I felt that I had to prove that I was an insider, and, where I worked, &amp;ldquo;designers&amp;rdquo; were outsiders.&lt;/p&gt;</description>
+      <description>After several failed attempts, I found a way to bring UX to the table on a development-led project team.</description>
     </item>
     <item>
       <title>Using Wireframes with Agile User Stories</title>

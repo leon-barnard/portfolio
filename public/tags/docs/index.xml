@@ -6,14 +6,14 @@
     <description>Recent content in Docs on Leon Barnard&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>&#34;Why Markdown?&#34; Presentation</title>
-      <link>//localhost:1313/speaking/-why-markdown--presentation/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/-why-markdown--presentation/</guid>
-      <description>All the resources and files I&#39;ve used for my presentations about Markdown - leon-barnard/all-things-markdown</description>
+      <title>Workshop Talk: &#34;Why Markdown?&#34;</title>
+      <link>//localhost:1313/speaking/wtd-why-markdown/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/wtd-why-markdown/</guid>
+      <description>A talk I gave at a Write the Docs Meetup in San Francisco about how to use Markdown to help write documentation.</description>
     </item>
     <item>
       <title>Balsamiq Docs Case Study, Part 3: Lists Get a Makeover</title>

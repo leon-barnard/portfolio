@@ -6,8 +6,15 @@
     <description>Recent content in Wireframing on Leon Barnard&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/wireframing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wireframing &amp; Prototyping (ft. Leon Barnard)</title>
+      <link>//localhost:1313/speaking/nelsen-norman-podcast/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/nelsen-norman-podcast/</guid>
+      <description>Why wireframing is not only still relevant, but essential for maximizing creativity and innovative thinking.</description>
+    </item>
     <item>
       <title>Harnessing the Power of Wireframes</title>
       <link>//localhost:1313/speaking/harnessing-wireframes/</link>
@@ -65,6 +72,13 @@
       <description>A peek into the book with our Meet the Book Q&amp;amp;A series. Learn what inspired the most important ideas of the book, how the three authors collaborated, and who should read this book.</description>
     </item>
     <item>
+      <title>Webinar: How to Use Wireframes With Agile User Stories</title>
+      <link>//localhost:1313/speaking/webinar-how-to-use-wireframes-with-agile-user-stories/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/webinar-how-to-use-wireframes-with-agile-user-stories/</guid>
+      <description>Learn how wireframes can be used with user stories to help balance the piecemeal nature of Agile development with big picture user needs and UI cohesiveness.</description>
+    </item>
+    <item>
       <title>Five Steps to Creating Great Wireframes</title>
       <link>//localhost:1313/writing/five-steps-to-creating-great-wireframes/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
@@ -112,13 +126,6 @@
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/wireframing-for-beginners/</guid>
       <description>Wireframing is an essential skill for UX Designers and other experience design participants. Learn how to get your wireframing off to the right start.</description>
-    </item>
-    <item>
-      <title>Why Marketers Need to Learn Wireframing</title>
-      <link>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</link>
-      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</guid>
-      <description></description>
     </item>
     <item>
       <title>Tips for Presenting Your Wireframes</title>

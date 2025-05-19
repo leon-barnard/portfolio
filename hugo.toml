@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 title = "Leon Barnard's Portfolio"
 themesdir = "themes/"
 theme = 'hugo-digital-garden-theme'
-contentDir = 'themes/hugo-digital-garden-theme/exampleSite/content'
+contentDir = 'themes/hugo-digital-garden-theme/content'
 
 [module]
   [module.hugoVersion]

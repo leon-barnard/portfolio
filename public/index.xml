@@ -6,7 +6,7 @@
     <description>Recent content on Leon Barnard&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setup and Configuration Redesign</title>
@@ -35,6 +35,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/design/live-wireframing-sessions/</guid>
       <description>One-on-one online design consultations to help do-gooders bring their ideas to life.</description>
+    </item>
+    <item>
+      <title>Wireframing &amp; Prototyping (ft. Leon Barnard)</title>
+      <link>//localhost:1313/speaking/nelsen-norman-podcast/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/nelsen-norman-podcast/</guid>
+      <description>Why wireframing is not only still relevant, but essential for maximizing creativity and innovative thinking.</description>
     </item>
     <item>
       <title>Harnessing the Power of Wireframes</title>
@@ -100,6 +107,13 @@
       <description>A peek into the book with our Meet the Book Q&amp;amp;A series. Learn what inspired the most important ideas of the book, how the three authors collaborated, and who should read this book.</description>
     </item>
     <item>
+      <title>Webinar: Design Tips for a More Effective Nonprofit Website</title>
+      <link>//localhost:1313/speaking/design-tips-for-a-more-effective-nonprofit-website/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/design-tips-for-a-more-effective-nonprofit-website/</guid>
+      <description>In this webinar you&amp;rsquo;ll learn the most impactful ways you can improve your nonprofit website to make it represent your mission and work toward your goals.</description>
+    </item>
+    <item>
       <title>Common Website Mistakes and How to Fix Them</title>
       <link>//localhost:1313/writing/common-website-mistakes-and-how-to-fix-them/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
@@ -112,6 +126,13 @@
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/antidote-ux-burnout/</guid>
       <description>User experience design remains a highly-coveted and relatively satisfying profession. But I’ve started to see a noticeable trend in feelings of burnout and frustration in our field.</description>
+    </item>
+    <item>
+      <title>Webinar: How to Use Wireframes With Agile User Stories</title>
+      <link>//localhost:1313/speaking/webinar-how-to-use-wireframes-with-agile-user-stories/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/webinar-how-to-use-wireframes-with-agile-user-stories/</guid>
+      <description>Learn how wireframes can be used with user stories to help balance the piecemeal nature of Agile development with big picture user needs and UI cohesiveness.</description>
     </item>
     <item>
       <title>Life&#39;s Too Short for Bad Software (with Leon Barnard)</title>
@@ -136,17 +157,24 @@
     </item>
     <item>
       <title>UX as a Career Path for Recent Graduates</title>
-      <link>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</link>
+      <link>//localhost:1313/speaking/ux-career-path-recent-graduates/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</guid>
-      <description>summary</description>
+      <guid>//localhost:1313/speaking/ux-career-path-recent-graduates/</guid>
+      <description>The Class of 2020 podcast is a community space for young minds, ages 16-25, paired with industry minds, to create connection and conversation.</description>
+    </item>
+    <item>
+      <title>Talking about UI/UX with Leon Barnard</title>
+      <link>//localhost:1313/speaking/interview-coder-foundry/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/interview-coder-foundry/</guid>
+      <description>Coder Foundry is an intensive full stack web developer program. Their YouTube channel provides advice to aspiring software developers on how to break into the industry.</description>
     </item>
     <item>
       <title>Leon Barnard of Balsamiq: &#34;You need to be OK with not knowing what everyone is working on&#34;</title>
-      <link>//localhost:1313/speaking/leon-barnard-of-balsamiq---you-need-to-be-ok-with-not-knowing-what-everyone-is-working-on/</link>
+      <link>//localhost:1313/speaking/interview-nohq/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/leon-barnard-of-balsamiq---you-need-to-be-ok-with-not-knowing-what-everyone-is-working-on/</guid>
-      <description>Balsamiq is a leading wireframing tool, which has been on the market for over a decade. The team behind that company consists of over 30 people, working from the US and Europe. Today, we are talking to Leon Barnard, lead of the education team, about his role at Balsamiq and his experience with remote work in the last decade.</description>
+      <guid>//localhost:1313/speaking/interview-nohq/</guid>
+      <description>We talk to Leon Barnard, lead of the education team, about his role at Balsamiq and his experience with remote work in the last decade.</description>
     </item>
     <item>
       <title>Five Steps to Creating Great Wireframes</title>
@@ -177,13 +205,6 @@
       <description>Four techniques to start a wireframe project from scratch and ensure that you dedicate enough time to the ideation phase, where the success of your product begins.</description>
     </item>
     <item>
-      <title>5 UX Designers Share Lessons Learned</title>
-      <link>//localhost:1313/speaking/5-ux-designers-share-lessons-learned/</link>
-      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/5-ux-designers-share-lessons-learned/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>How to Use Wireframes with Design Systems</title>
       <link>//localhost:1313/writing/how-to-use-wireframes-with-design-systems/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
@@ -205,18 +226,18 @@
       <description>Learn to see like a UI designer by deconstructing an interface into its 4 layers: controls, patterns, design principles, and templates.</description>
     </item>
     <item>
-      <title>Lightning Talk: &#34;UX Design in the Real World&#34;</title>
-      <link>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</guid>
-      <description></description>
+      <title>Demystifying the UX Design Process</title>
+      <link>//localhost:1313/speaking/demystifying-ux-design/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/demystifying-ux-design/</guid>
+      <description>Learn why UX matters, the phases of UX design, and how to become a better UX designer.</description>
     </item>
     <item>
-      <title>&#34;Why Markdown?&#34; Presentation</title>
-      <link>//localhost:1313/speaking/-why-markdown--presentation/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/-why-markdown--presentation/</guid>
-      <description>All the resources and files I&#39;ve used for my presentations about Markdown - leon-barnard/all-things-markdown</description>
+      <title>Workshop Talk: &#34;Why Markdown?&#34;</title>
+      <link>//localhost:1313/speaking/wtd-why-markdown/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/speaking/wtd-why-markdown/</guid>
+      <description>A talk I gave at a Write the Docs Meetup in San Francisco about how to use Markdown to help write documentation.</description>
     </item>
     <item>
       <title>Hugo Templates for WordPress Designers</title>
@@ -273,13 +294,6 @@
       <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/speaking/transforming-your-documentation-process/</guid>
       <description>A panel discussion about companies transforming their documentation process at the 2016 Write the Docs conference</description>
-    </item>
-    <item>
-      <title>Why Marketers Need to Learn Wireframing</title>
-      <link>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</link>
-      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/why-marketers-need-to-learn-wireframing/</guid>
-      <description></description>
     </item>
     <item>
       <title>HTML and CSS: Still Relevant for Designers</title>
@@ -350,83 +364,6 @@
       <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/using-wireframes-with-agile-user-stories/</guid>
       <description>A step-by-step guide on how to use wireframes in your Agile User Stories. Tips: add just enough detail and focus on what developers really need to know.</description>
-    </item>
-    <item>
-      <title>Five Steps to Creating Great Wireframes (Webinar)</title>
-      <link>//localhost:1313/speaking/five-steps-to-creating-great-wireframes--webinar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/five-steps-to-creating-great-wireframes--webinar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learn Wireframing from Scratch with @Balsamiq</title>
-      <link>//localhost:1313/speaking/learn-wireframing-from-scratch-with--balsamiq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/learn-wireframing-from-scratch-with--balsamiq/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Panel Discussion: Remote Design Collaboration</title>
-      <link>//localhost:1313/speaking/panel-discussion--remote-design-collaboration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/panel-discussion--remote-design-collaboration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Talking about UI/UX with Leon Barnard</title>
-      <link>//localhost:1313/speaking/talking-about-ui-ux-with-leon-barnard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/talking-about-ui-ux-with-leon-barnard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Webinar: &#34;Demystifying the UX Design Process&#34;</title>
-      <link>//localhost:1313/speaking/webinar---demystifying-the-ux-design-process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/webinar---demystifying-the-ux-design-process/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Webinar: Design Tips for a More Effective Nonprofit Website</title>
-      <link>//localhost:1313/speaking/webinar--design-tips-for-a-more-effective-nonprofit-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/webinar--design-tips-for-a-more-effective-nonprofit-website/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Webinar: How to Use Wireframes With Agile User Stories</title>
-      <link>//localhost:1313/speaking/webinar--how-to-use-wireframes-with-agile-user-stories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/webinar--how-to-use-wireframes-with-agile-user-stories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Webinar: User Experience as a Career</title>
-      <link>//localhost:1313/speaking/webinar--user-experience-as-a-career/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/webinar--user-experience-as-a-career/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wireframing &amp; Prototyping (ft. Leon Barnard)</title>
-      <link>//localhost:1313/speaking/wireframing---prototyping--ft--leon-barnard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/wireframing---prototyping--ft--leon-barnard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wireframing for Newbies</title>
-      <link>//localhost:1313/speaking/wireframing-for-newbies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/wireframing-for-newbies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Workshop Talk: &#34;Why Markdown?&#34;</title>
-      <link>//localhost:1313/speaking/workshop-talk---why-markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/workshop-talk---why-markdown/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

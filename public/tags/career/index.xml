@@ -31,17 +31,10 @@
     </item>
     <item>
       <title>UX as a Career Path for Recent Graduates</title>
-      <link>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</link>
+      <link>//localhost:1313/speaking/ux-career-path-recent-graduates/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/ux-as-a-career-path-for-recent-graduates/</guid>
-      <description>summary</description>
-    </item>
-    <item>
-      <title>Lightning Talk: &#34;UX Design in the Real World&#34;</title>
-      <link>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speaking/lightning-talk---ux-design-in-the-real-world/</guid>
-      <description></description>
+      <guid>//localhost:1313/speaking/ux-career-path-recent-graduates/</guid>
+      <description>The Class of 2020 podcast is a community space for young minds, ages 16-25, paired with industry minds, to create connection and conversation.</description>
     </item>
     <item>
       <title>From the Classroom to the Cubicle: UX in the Real World</title>
@@ -69,7 +62,7 @@
       <link>//localhost:1313/writing/tales-from-a-ux-guerrilla/</link>
       <pubDate>Mon, 03 Jun 2013 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/tales-from-a-ux-guerrilla/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;I have a confession to make.&lt;/strong&gt; For the first few years of my UX Design career I was afraid to call myself a designer.&lt;/p&gt;&#xA;&lt;p&gt;I rejected the designer moniker to gain acceptance at the technically focused, development-led enterprise software company where I started my UX career. In order to be involved in the process, I felt that I had to prove that I was an insider, and, where I worked, &amp;ldquo;designers&amp;rdquo; were outsiders.&lt;/p&gt;</description>
+      <description>After several failed attempts, I found a way to bring UX to the table on a development-led project team.</description>
     </item>
   </channel>
 </rss>
