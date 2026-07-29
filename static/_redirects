@@ -9,7 +9,6 @@ https://www.leonland.com/* https://www.leon.land/:splat 301!
 /fun/*  /about  301!
 /contact  /about  301!
 /book /writing/wireframing-for-everyone/  301!
-# /portfolio	/design 301!
 
 # Redirects for DJ site
 /june2025 https://www.mixcloud.com/leonbarnard/maison-fox-june-2025/  301!
