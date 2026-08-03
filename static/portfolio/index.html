@@ -379,6 +379,52 @@ h2 {
       }
 
     }
+    
+    /* Lightbox backdrop overlay */
+    .lightbox-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: rgba(0, 0, 0, 0.85);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 99999;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.25s ease, visibility 0.25s ease;
+      cursor: zoom-out;
+    }
+
+    /* Make overlay visible when active */
+    .lightbox-overlay.active {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    /* Lightbox image inside overlay */
+    .lightbox-overlay img {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+      transform: scale(0.95);
+      transition: transform 0.25s ease;
+      cursor: default;
+    }
+
+    .lightbox-overlay.active img {
+      transform: scale(1);
+    }
+
+    /* Pointer cursor on target images to signal clickability */
+    span img {
+      cursor: zoom-in;
+    }    
+    
   </style>
 </head>
 <body>
@@ -464,7 +510,7 @@ h2 {
         </ol>
     </div>
         <div class="span">
-      <img src="images/FO-Training-Reality-Map.png" alt="Reality Map of the existing process">
+      <img src="images/FO-Training-Reality-Map.png" alt="Reality Map of the existing process" class="lb">
       <hr>
     </div>
     
@@ -474,7 +520,7 @@ h2 {
       <p> I then began translating those IA ideas into UI navigation concepts.</p>
 </div>
 <div class="span">
-<img src="images/nav-ia-comparison.png" alt="Old vs. new navigation ideas">
+<img src="images/nav-ia-comparison.png" alt="Old vs. new navigation ideas" class="lb">
 <hr>
 </div>
     
@@ -485,8 +531,8 @@ h2 {
     <p>I also showed how inline help text could be displayed.</p>
 </div>
 <div class="span">
-<img src="images/resource-types.png" alt="Resource Types wireframe">
-<img src="images/tree-nav-insurance-sm.png" alt="Form example wireframe">
+<img src="images/resource-types.png" alt="Resource Types wireframe" class="lb">
+<img src="images/tree-nav-insurance-sm.png" alt="Form example wireframe" class="lb">
 <hr>
 </div>
 
@@ -495,7 +541,7 @@ h2 {
   <p>I cleaned up the tables and moved buttons to a more standard location. I changed the vague icons to descriptive text links.</p>
   <p>I overhauled the forms that populated many of the pages. Changes included improving alignment and applying better section breaks, hierarchy, and headings.</p>
 </div>
-<div class="span"><img src="images/Anthem_Bluecross.png" alt="Insurance settings screen"><hr></div>
+<div class="span"><img src="images/Anthem_Bluecross.png" alt="Insurance settings screen" class="lb"><hr></div>
 
 
 <div><h3>5. Building a Design System</h3></div>          
@@ -504,8 +550,8 @@ h2 {
     <p>I translated all of my work to HTML and CSS and made sure that all UI components were covered by the design system.</p>
     <p>I documented how to use the design system within the patterns I created.</p>
 </div>
-<div class="span"><img src="images/pasted-movie.png" alt="Design System example screen"></div>
-<div class="span"><img src="images/bob-bobson.png" alt="Account states screen"></div>
+<div class="span"><img src="images/pasted-movie.png" alt="Design System example screen" class="lb"></div>
+<div class="span"><img src="images/bob-bobson.png" alt="Account states screen" class="lb"></div>
 
 </div><!-- End of Panel -->
 
@@ -520,11 +566,11 @@ h2 {
 </div>
 <div class="span">
   <p>Before:<p>
-  <img src="images/clinic_admin_1.png" alt="Old Clinic Admin screen">
+  <img src="images/clinic_admin_1.png" alt="Old Clinic Admin screen" class="lb">
 </div>
 <div class="span">
   <p>After:<p>
-  <img src="images/Practice_Settings.png" alt="New Practice Settings screen"><hr>
+  <img src="images/Practice_Settings.png" alt="New Practice Settings screen" class="lb"><hr>
 </div>
 
 <div class="span">
@@ -532,11 +578,11 @@ h2 {
 </div>
 <div class="span">
 <p>Before:<p>
-<img src="images/OptimisPT_REV5_pdf-8.png" alt="Old Resources screen">
+<img src="images/OptimisPT_REV5_pdf-8.png" alt="Old Resources screen" class="lb">
 </div>
 <div class="span">
 <p>After:<p>
-<img src="images/Users.png" alt="New Resources screen"><hr>
+<img src="images/Users.png" alt="New Resources screen" class="lb"><hr>
 </div>
 
 <div class="span">
@@ -544,11 +590,11 @@ h2 {
 </div>
 <div class="span">
 <p>Before:<p>
-<img src="images/OptimisPT_REV5_pdf-5.png" alt="Old form page">
+<img src="images/OptimisPT_REV5_pdf-5.png" alt="Old form page" class="lb">
 </div>
 <div class="span">
 <p>After:<p>
-<img src="images/NotherClinic.png" alt="New form page"><hr>
+<img src="images/NotherClinic.png" alt="New form page" class="lb"><hr>
 </div>
 
 <div class="span">
@@ -556,11 +602,11 @@ h2 {
 </div>
 <div class="span">
 <p>Before:<p>
-<img src="images/OptimisPT_REV5_pdf.png" alt="Old Billing form page">
+<img src="images/OptimisPT_REV5_pdf.png" alt="Old Billing form page" class="lb">
 </div>
 <div class="span">
 <p>After:<p>
-<img src="images/pasted-movie-4.png" alt="New Billing form page">
+<img src="images/pasted-movie-4.png" alt="New Billing form page" class="lb">
 </div>
 
 </div><!-- End of Panel -->
@@ -694,5 +740,55 @@ h2 {
       sections.forEach(section => observer.observe(section));
     });
   </script>
+
+  <!-- Lightbox script -->  
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // 1. Create lightbox DOM elements once
+    const overlay = document.createElement('div');
+    overlay.className = 'lightbox-overlay';
+    
+    const lightboxImg = document.createElement('img');
+    lightboxImg.alt = 'Enlarged image';
+    
+    overlay.appendChild(lightboxImg);
+    document.body.appendChild(overlay);
+
+    // 2. Select all images with the class "lb"
+    const lightBoxImages = document.querySelectorAll('img.lb');
+
+    lightBoxImages.forEach((img) => {
+      // Add visual indicator that the image is clickable
+      img.style.cursor = 'zoom-in';
+
+      img.addEventListener('click', (e) => {
+        e.stopPropagation(); // Prevents triggering any parent link/wrapper clicks
+        
+        // Use high-res src if provided via data-fullsrc, otherwise fallback to src
+        lightboxImg.src = img.dataset.fullsrc || img.src;
+        lightboxImg.alt = img.alt || 'Enlarged view';
+        
+        overlay.classList.add('active');
+        document.body.style.overflow = 'hidden'; // Lock scrolling while open
+      });
+    });
+
+    // 3. Close lightbox when clicking the overlay
+    overlay.addEventListener('click', closeLightbox);
+
+    // 4. Close lightbox when pressing 'Escape' key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && overlay.classList.contains('active')) {
+        closeLightbox();
+      }
+    });
+
+    function closeLightbox() {
+      overlay.classList.remove('active');
+      document.body.style.overflow = ''; // Restore page scrolling
+    }
+  });
+  </script>
+  
 </body>
 </html>
